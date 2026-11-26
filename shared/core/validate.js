@@ -219,4 +219,3 @@ function validateExportConfig(cfg) {
 
 if (typeof module !== 'undefined') module.exports = { parseAiJson, validateCandidates, validateDirector, validateExportConfig, sanitizeFilename, snapToPause, cleanText, num, SCHEMA_VERSION, CATEGORIES };
 if (typeof window !== 'undefined') window.RoohuValidate = { parseAiJson, validateCandidates, validateDirector, validateExportConfig, sanitizeFilename, cleanText, num };
-
