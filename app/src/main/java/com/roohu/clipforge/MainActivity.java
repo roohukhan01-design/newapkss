@@ -1,208 +1,615 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éí×]tİ:-jZ.¶›­–)Ş³W6¶vR6öÒç&öö‡Ræ6Æ—f÷&vS° ¦–×÷'BæG&ö–Bææ–ÖF–öâäæ–ÖF÷#°¦–×÷'BæG&ö–Bææ–ÖF–öâäö&¦V7Dæ–ÖF÷#°¦–×÷'BæG&ö–Bææ–ÖF–öâå&÷W'G•fÇVW4†öÆFW#°¦–×÷'BæG&ö–Bææ–ÖF–öâåfÇVTæ–ÖF÷#°¦–×÷'BæG&ö–Bæ6öçFVçBä6öçFVçEfÇVW3°¦–×÷'BæG&ö–Bæ6öçFVçBä–çFVçC°¦–×÷'BæG&ö–BæFF&6Rä7W'6÷#°¦–×÷'BæG&ö–Bæw&†–72ä&—FÖ°¦–×÷'BæG&ö–BæÖVF–äÖVF–ÖWFFF&WG&–WfW#°¦–×÷'BæG&ö–Bç&÷f–FW"ä÷Væ&ÆT6öÇVÖç3°¦–×÷'BæG&ö–Bçf–Wråv–æF÷tÖævW#°¦–×÷'BæG&ö–BäÖæ–fW7C°¦–×÷'BæG&ö–Bæ6öçFVçBçÒå6¶vTÖævW#°¦–×÷'BæG&ö–BææWBåW&“°¦–×÷'BæG&ö–Bæ÷2ä'V–ÆC°¦–×÷'BæG&ö–Bæ÷2ä'VæFÆS°¦–×÷'BæG&ö–Bæ÷2äVçf—&öæÖVçC°¦–×÷'BæG&ö–Bæ÷2ä†æFÆW#°¦–×÷'BæG&ö–Bæ÷2äÆö÷W#°¦–×÷'BæG&ö–Bæ÷2å7—7FVÔ6Æö6³°¦–×÷'BæG&ö–Bç&÷f–FW"äÖVF–7F÷&S°¦–×÷'BæG&ö–BçWF–Âä&6ScC°¦–×÷'BæG&ö–Bçf–Wråf–Ws°¦–×÷'BæG&ö–Bçf–Wråf–Wtw&÷W°¦–×÷'BæG&ö–Bçf–Wrææ–ÖF–öâä66VÆW&FTFV6VÆW&FT–çFW'öÆF÷#°¦–×÷'BæG&ö–Bçf–Wrææ–ÖF–öâäFV6VÆW&FT–çFW'öÆF÷#°¦–×÷'BæG&ö–BçvV&¶—Bä¦f67&—D–çFW&f6S°¦–×÷'BæG&ö–BçvV&¶—Bå&VæFW%&ö6W74vöæTFWF–Ã°¦–×÷'BæG&ö–BçvV&¶—BåfÇVT6ÆÆ&6³°¦–×÷'BæG&ö–BçvV&¶—BåvV$6‡&öÖT6Æ–VçC°¦–×÷'BæG&ö–BçvV&¶—BåvV%&W6÷W&6U&WVW7C°¦–×÷'BæG&ö–BçvV&¶—BåvV%&W6÷W&6U&W7öç6S°¦–×÷'BæG&ö–BçvV&¶—BåvV%6WGF–æw3°¦–×÷'BæG&ö–BçvV&¶—BåvV%f–Ws°¦–×÷'BæG&ö–BçvV&¶—BåvV%f–Wt6Æ–VçC°¦–×÷'BæG&ö–BçvV&¶—BåW&Ö—76–öå&WVW7C°¦–×÷'BæG&ö–Bçv–FvWBåFö7C° ¦–×÷'BæG&ö–G‚æ7F—f—G’ä6ö×öæVçD7F—f—G“°¦–×÷'BæG&ö–G‚æ7F—f—G’äöä&6µ&W76VD6ÆÆ&6³°¦–×÷'BæG&ö–G‚æ7F—f—G’ç&W7VÇBä7F—f—G•&W7VÇDÆVæ6†W#°¦–×÷'BæG&ö–G‚æ7F—f—G’ç&W7VÇBæ6öçG&7Bä7F—f—G•&W7VÇD6öçG&7G3°¦–×÷'BæG&ö–G‚çvV&¶—BåvV%f–Wt76WDÆöFW#° ¦–×÷'B¦fæ–òäf–ÆS°¦–×÷'B¦fæ–òäf–ÆT÷WGWE7G&VÓ°¦–×÷'B¦fæ–òä–çWE7G&VÓ°¦–×÷'B¦fæ–òä÷WGWE7G&VÓ°¦–×÷'B¦fçWF–Âä'&”Æ—7C°¦–×÷'B¦fçWF–Âä†6„Ö°¦–×÷'B¦fçWF–ÂäÆ—7C°¦–×÷'B¦fçWF–ÂäÖ°¦–×÷'B¦fçWF–Âæ6öæ7W'&VçBäW†V7WF÷%6W'f–6S°¦–×÷'B¦fçWF–Âæ6öæ7W'&VçBäW†V7WF÷'3°¦–×÷'B¦fçWF–Âæ6öæ7W'&VçBæFöÖ–2äFöÖ–4–çFVvW#° ¦–×÷'B÷&ræ§6öâä¥4ôä'&“°¦–×÷'B÷&ræ§6öâä¥4ôäö&¦V7C°¦–×÷'BæG&ö–G‚æÖVF–2æ6öÖÖöâçWF–ÂåVç7F&ÆT“° §V&Æ–26Æ72Ö–ä7F—f—G’W‡FVæG26ö×öæVçD7F—f—G’°¢&—fFR7FF–2f–æÂ7G&–ærÔ”åõU$ÂÒ&‡GG3¢òö76WG2ææG&ö–GÆFf÷&ÒææWBö76WG2õ&öö‡RÔ6Æ—f÷&vRæ‡FÖÂ#°¢&—fFR7FF–2f–æÂÆöærÔ”åõ5Ä4…ôÕ2Ò“° ¢&—fFRvV%f–WrvV#°¢&—fFRf–Wr7Æ6‚ÂvÆ÷rÂÆövòÂF—FÆRÂFrÂÆöFW#°¢&—fFRfÇVT6ÆÆ&6³ÅW&•µÓâ6†ö÷6W$6#°¢&—fFR&ööÆVâ7Æ6„vöæRÒfÇ6S°¢&—fFRÆöærC°¢&—fFRf–æÂ†æFÆW"V’ÒæWr†æFÆW"„Æö÷W"ævWDÖ–äÆö÷W"‚’“°¢&—fFRf–æÂÆ—7CÄæ–ÖF÷#âÆö÷2ÒæWr'&”Æ—7CÃâ‚“°¢&—fFRf–æÂW†V7WF÷%6W'f–6Rv÷&¶W"ÒW†V7WF÷'2ææWu6–ævÆUF‡&VDW†V7WF÷"‚“°¢&—fFRf–æÂW†V7WF÷%6W'f–6RæWEv÷&¶W"ÒW†V7WF÷'2ææWu6–ævÆUF‡&VDW†V7WF÷"‚“°¢&—fFRf–æÂFöÖ–4–çFVvW"'W7’ÒæWrFöÖ–4–çFVvW"‚“°¢&—fFRW&’f–FVõW&“°¢&—fFRW&’6ÕW&“°¢&—fFRföÆF–ÆR7G&–ær–6µF&vWBÒ&Ö–â#°¢&—fFRf–æÂÖÅ7G&–ærÂW&“âVF–õW&—2ÒæWr†6„ÖÃâ‚“°¢&—fFR7G&–ær6†ö÷6W$66WBÒ"#°¢&—fFR6Æ—W‡÷'FW"W‡÷'FW#° ¢&—fFRf–æÂ7F—f—G•&W7VÇDÆVæ6†W#Ä–çFVçCâ6†ö÷6W"Ò&Vv—7FW$f÷$7F—f—G•&W7VÇB€¢æWr7F—f—G•&W7VÇD6öçG&7G2å7F'D7F—f—G”f÷%&W7VÇB‚’Â"Óâ°¢–b†6†ö÷6W$6"ÓÒçVÆÂ’&WGW&ã°¢W&•µÒ&W2ÒvV$6‡&öÖT6Æ–VçBäf–ÆT6†ö÷6W%&×2ç'6U&W7VÇB‡"ævWE&W7VÇD6öFR‚’Â"ævWDFF‚’“°¢–b‡&W2ÒçVÆÂbb&W2æÆVæwF‚â’°¢–b†6†ö÷6W$66WBæ6öçF–ç2‚'f–FVò"’’²–b‚&6Ò"æWVÇ2‡–6µF&vWB’’6ÕW&’Ò&W5³Ó²VÇ6Rf–FVõW&’Ò&W5³Ó²Ğ¢VÇ6R–b†6†ö÷6W$66WBæ6öçF–ç2‚&VF–ò"’’°¢f÷"…W&’R¢&W2’6÷•FôÆ–"‡R“°¢Ğ¢Ğ¢–6µF&vWBÒ&Ö–â#°¢6†ö÷6W$6"æöå&V6V—fUfÇVR‡&W2“°¢6†ö÷6W$6"ÒçVÆÃ°¢Ò“° ¢÷fW'&–FP¢&÷FV7FVBfö–Böä7&VFR„'VæFÆR"’°¢7WW"æöä7&VFR†"“°¢66äÆ–"‚“°¢6WD6öçFVçEf–Wr…"æÆ–÷WBæ7F—f—G•öÖ–â“°¢CÒ7—7FVÔ6Æö6²æVÆ6VE&VÇF–ÖR‚“°¢vV"Òf–æEf–Wt'”–B…"æ–BçvV"“°¢7Æ6‚Òf–æEf–Wt'”–B…"æ–Bç7Æ6‚“°¢vÆ÷rÒf–æEf–Wt'”–B…"æ–BævÆ÷r“°¢ÆövòÒf–æEf–Wt'”–B…"æ–BæÆövò“°¢F—FÆRÒf–æEf–Wt'”–B…"æ–BçF—FÆR“°¢FrÒf–æEf–Wt'”–B…"æ–BçFr“°¢ÆöFW"Òf–æEf–Wt'”–B…"æ–BæÆöFW"“°¢–b„'V–ÆBådU%4”ôâå4Dµô”åBÂ#’bb6†V6µ6VÆeW&Ö—76–öâ„Öæ–fW7BçW&Ö—76–öâåu$•DUôU…DU$äÅõ5Dõ$tR’Ò6¶vTÖævW"åU$Ô•54”ôåôu$åDTB¢&WVW7EW&Ö—76–öç2†æWr7G&–æuµ×´Öæ–fW7BçW&Ö—76–öâåu$•DUôU…DU$äÅõ5Dõ$tWÒÂr“°¢7F'E7Æ6‚‚“°¢6WGWvV"‚“°¢vWDöä&6µ&W76VDF—7F6†W"‚’æFD6ÆÆ&6²‡F†—2ÂæWröä&6µ&W76VD6ÆÆ&6²‡G'VR’°¢÷fW'&–FRV&Æ–2fö–B†æFÆTöä&6µ&W76VB‚’°¢vV"æWfÇVFT¦f67&—B‚"‡v–æF÷ræ6d&6²bf6d&6²‚’“òss¢sr"ÂbÓâ°¢–b‚%Â#Â""æWVÇ2‡b’’&WGW&ã°¢–b‡vV"æ6ävô&6²‚’’²vV"ævô&6²‚“²&WGW&ã²Ğ¢6WDVæ&ÆVB†fÇ6R“°¢vWDöä&6µ&W76VDF—7F6†W"‚’æöä&6µ&W76VB‚“°¢Ò“°¢Ğ¢Ò“°¢vV"æÆöEW&Â„Ô”åõU$Â“°¢V’ç÷7DFVÆ–VB‡F†—3£¦†–FU7Æ6‚Âƒ“²òòf–Ç6fS¢æWfW"G&F†RW6W"&V†–æBF†R7Æ6€¢Ğ ¢&—fFRfö–B6WGWvV"‚’°¢f–æÂvV%f–Wt76WDÆöFW"76WG2ÒæWrvV%f–Wt76WDÆöFW"ä'V–ÆFW"‚¢æFEF„†æFÆW"‚"ö76WG2ò"ÂæWrvV%f–Wt76WDÆöFW"ä76WG5F„†æFÆW"‡F†—2’¢æFEF„†æFÆW"‚"ö×W6–2ò"ÂæWrvV%f–Wt76WDÆöFW"ä–çFW&æÅ7F÷&vUF„†æFÆW"‡F†—2Â×W6–4F—"‚’’’æ'V–ÆB‚“°¢vV%6WGF–æw22ÒvV"ævWE6WGF–æw2‚“°¢2ç6WD¦f67&—DVæ&ÆVB‡G'VR“°¢2ç6WDFöÕ7F÷&vTVæ&ÆVB‡G'VR“°¢2ç6WDÖVF–Æ–&6µ&WV—&W5W6W$vW7GW&R†fÇ6R“°¢2ç6WDÆÆ÷tf–ÆT66W72†fÇ6R“°¢2ç6WDÆÆ÷t6öçFVçD66W72‡G'VR“°¢2ç6WE7W÷'E¦ööÒ†fÇ6R“°¢2ç6WDÖ—†VD6öçFVçDÖöFR…vV%6WGF–æw2äÔ•„TEô4ôåDTåEôäUdU%ôÄÄõr“°¢vV"ç6WD&6¶w&÷VæD6öÆ÷"ƒ„dcb“°¢vV"ç6WD÷fW%67&öÆÄÖöFR…f–WräõdU%õ45$ôÄÅôäUdU"“°¢vV"æFD¦f67&—D–çFW&f6R†æWr'&–FvR‚’Â$æG&ö–D'&–FvR"“°¢vV"ç6WEvV%f–Wt6Æ–VçB†æWrvV%f–Wt6Æ–VçB‚’°¢÷fW'&–FRV&Æ–2vV%&W6÷W&6U&W7öç6R6†÷VÆD–çFW&6WE&WVW7B…vV%f–WrbÂvV%&W6÷W&6U&WVW7B"’°¢&WGW&â76WG2ç6†÷VÆD–çFW&6WE&WVW7B‡"ævWEW&Â‚’“°¢Ğ¢÷fW'&–FRV&Æ–2fö–BöåvTf–æ—6†VB…vV%f–WrbÂ7G&–ærR’°¢ÆöærÆVgBÒÖF‚æÖ‚ƒÂÔ”åõ5Ä4…ôÕ2Ò…7—7FVÔ6Æö6²æVÆ6VE&VÇF–ÖR‚’ÒC’“°¢V’ç÷7DFVÆ–VB„Ö–ä7F—f—G’çF†—3£¦†–FU7Æ6‚ÂÆVgB“°¢Ğ¢÷fW'&–FRV&Æ–2&ööÆVâ6†÷VÆD÷fW'&–FUW&ÄÆöF–ær…vV%f–WrbÂvV%&W6÷W&6U&WVW7B"’°¢W&’RÒ"ævWEW&Â‚“°¢–b‚&76WG2ææG&ö–GÆFf÷&ÒææWB"æWVÇ2‡RævWD†÷7B‚’’’&WGW&âfÇ6S°¢G'’²7F'D7F—f—G’†æWr–çFVçB„–çFVçBä5D”ôåõd”UrÂR’“²Ò6F6‚„W†6WF–öâ–væ÷&VB’²Ğ¢&WGW&âG'VS°¢Ğ¢÷fW'&–FRV&Æ–2&ööÆVâöå&VæFW%&ö6W74vöæR…vV%f–WrbÂ&VæFW%&ö6W74vöæTFWF–ÂB’°¢'VäöåV•F‡&VB„Ö–ä7F—f—G’çF†—3£§&V7&VFR“°¢&WGW&âG'VS°¢Ğ¢Ò“°¢vV"ç6WEvV$6‡&öÖT6Æ–VçB†æWrvV$6‡&öÖT6Æ–VçB‚’°¢÷fW'&–FRV&Æ–2&ööÆVâöå6†÷tf–ÆT6†ö÷6W"…vV%f–WrrÂfÇVT6ÆÆ&6³ÅW&•µÓâ6"Âf–ÆT6†ö÷6W%&×2’°¢–b†6†ö÷6W$6"ÒçVÆÂ’6†ö÷6W$6"æöå&V6V—fUfÇVR†çVÆÂ“°¢6†ö÷6W$6"Ò6#°¢7G&–æt'V–ÆFW"62ÒæWr7G&–æt'V–ÆFW"‚“°¢f÷"…7G&–ær¢ævWD66WEG—W2‚’’62æVæB†’æVæB‚rÂr“°¢6†ö÷6W$66WBÒ62çFõ7G&–ær‚“°¢–çFVçB’Òæ7&VFT–çFVçB‚“°¢f÷"…7G&–ær¢ævWD66WEG—W2‚’’°¢–b†ÒçVÆÂbbç7F'G5v—F‚‚"â"’’²’ç6WEG—R‚"¢ò¢"“²'&V³²Ğ¢Ğ¢G'’²6†ö÷6W"æÆVæ6‚†’“²Ğ¢6F6‚„W†6WF–öâR’²6†ö÷6W$6"ÒçVÆÃ²6"æöå&V6V—fUfÇVR†çVÆÂ“²Fö7B‚$æòf–ÆR–6¶W"—2f–Æ&ÆRöâF†—2FWf–6Râ"“²Ğ¢&WGW&âG'VS°¢Ğ¢÷fW'&–FRV&Æ–2fö–BöåW&Ö—76–öå&WVW7B…W&Ö—76–öå&WVW7B"’²"æFVç’‚“²Ğ¢Ò“°¢Ğ ¢&—fFRfö–B7F'E7Æ6‚‚’°¢Æövòç6WDÇ†ƒb“²Æövòç6WE66ÆU‚ƒã†b“²Æövòç6WE66ÆU’ƒã†b“°¢F—FÆRç6WDÇ†ƒb“²F—FÆRç6WEG&ç6ÆF–öå’ƒ#Fb“²Frç6WDÇ†ƒb“²ÆöFW"ç6WDÇ†ƒb“°¢Æövòææ–ÖFR‚’æÇ†ƒb’ç66ÆU‚ƒb’ç66ÆU’ƒb’ç6WDGW&F–öâƒc’ç6WD–çFW'öÆF÷"†æWrFV6VÆW&FT–çFW'öÆF÷"‚’’ç7F'B‚“°¢F—FÆRææ–ÖFR‚’æÇ†ƒb’çG&ç6ÆF–öå’ƒb’ç6WE7F'DFVÆ’ƒ#S’ç6WDGW&F–öâƒS’ç7F'B‚“°¢Frææ–ÖFR‚’æÇ†ƒb’ç6WE7F'DFVÆ’ƒCS’ç6WDGW&F–öâƒS’ç7F'B‚“°¢ÆöFW"ææ–ÖFR‚’æÇ†ƒb’ç6WE7F'DFVÆ’ƒc’ç6WDGW&F–öâƒC’ç7F'B‚“°¢ö&¦V7Dæ–ÖF÷"rÒö&¦V7Dæ–ÖF÷"æöe&÷W'G•fÇVW4†öÆFW"†vÆ÷rÀ¢&÷W'G•fÇVW4†öÆFW"æödfÆöB…f–WräÅ„Âã3VbÂã“Vb’À¢&÷W'G•fÇVW4†öÆFW"æödfÆöB…f–Wrå44ÄUõ‚Âã–bÂãVb’À¢&÷W'G•fÇVW4†öÆFW"æödfÆöB…f–Wrå44ÄUõuÓ{h‘éì¶»§q«^tš[˜[HÈÙY\]ØZÙJ˜[ÙJNÈBˆJNÂˆBˆİ™\œšYHX›XÈ›ÚY\œ›ÜŠİš[™ÈY\ÜØYÙJHÈ˜Z[
-YY\ÜØYÙJNÈÙY\]ØZÙJ˜[ÙJNÈBˆJNÂˆJNÂˆJNÂˆB‚ˆ˜]˜\ØÜš\[\™˜XÙHX›XÈ›ÚYØ[˜Ù[^Ü
+package com.roohu.clipforge;
 
-HÂˆ[“Û•ZU™XY
+import android.animation.Animator;
+import android.animation.ObjectAnimator;
+import android.animation.PropertyValuesHolder;
+import android.animation.ValueAnimator;
+import android.content.ContentValues;
+import android.content.Intent;
+import android.database.Cursor;
+import android.graphics.Bitmap;
+import android.media.MediaMetadataRetriever;
+import android.provider.OpenableColumns;
+import android.view.WindowManager;
+import android.Manifest;
+import android.content.pm.PackageManager;
+import android.net.Uri;
+import android.os.Build;
+import android.os.Bundle;
+import android.os.Environment;
+import android.os.Handler;
+import android.os.Looper;
+import android.os.SystemClock;
+import android.provider.MediaStore;
+import android.util.Base64;
+import android.view.View;
+import android.view.ViewGroup;
+import android.view.animation.AccelerateDecelerateInterpolator;
+import android.view.animation.DecelerateInterpolator;
+import android.webkit.JavascriptInterface;
+import android.webkit.RenderProcessGoneDetail;
+import android.webkit.ValueCallback;
+import android.webkit.WebChromeClient;
+import android.webkit.WebResourceRequest;
+import android.webkit.WebResourceResponse;
+import android.webkit.WebSettings;
+import android.webkit.WebView;
+import android.webkit.WebViewClient;
+import android.webkit.PermissionRequest;
+import android.widget.Toast;
 
+import androidx.activity.ComponentActivity;
+import androidx.activity.OnBackPressedCallback;
+import androidx.activity.result.ActivityResultLauncher;
+import androidx.activity.result.contract.ActivityResultContracts;
+import androidx.webkit.WebViewAssetLoader;
 
-HOˆÈYˆ
-^Ü\ˆOH[
-H^Ü\‹˜Ø[˜Ù[
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.atomic.AtomicInteger;
 
-NÈJNÂˆB‚ˆÊŠˆÛX[”QÈœ˜[Y\ÈÙˆHšY[È]HÚ]™[ˆ[Y\È
-ÙXÛÛ™ÊK\È˜\ÙMÛÈHRHØ[ˆÛÚÈ]HXİ\™Kˆ
-‹Âˆ˜]˜\ØÜš\[\™˜XÙHX›XÈ›ÚYœ˜[Y\Êš[˜[İš[™È™\JHÂˆš[˜[”ÓÓ“Øš™XİNÂˆHÈHH™]È”ÓÓ“Øš™Xİ
-™\JNÈHØ]Ú
-^Ù\[ÛˆJHÈ™]\›ÈBˆš[˜[[YHK›Ü[
-šYŠNÂˆÛÜšÙ\‹™^Xİ]J
+import org.json.JSONArray;
+import org.json.JSONObject;
+import androidx.media3.common.util.UnstableApi;
 
-HOˆÂˆYYXSY]Y]T™]šY]™\ˆˆH™]ÈYYXSY]Y]T™]šY]™\Š
-NÂˆHÂˆYˆ
-šY[Õ\šHOH[
-H›İÈ™]È^Ù\[ÛŠ”XÚÈHšY[ÈYØZ[ˆÛÈH\Ø[ˆ™XY]ˆŠNÂˆ‹œÙ]]TÛİ\˜ÙJXZ[Xİ]š]K\ËšY[Õ\šJNÂˆ”ÓÓ\œ˜^HÈHK™Ù]”ÓÓ\œ˜^J[Y\ÈŠKİ]H™]È”ÓÓ\œ˜^J
-NÂˆ›Üˆ
-[HHÈHË›[™İ
+public class MainActivity extends ComponentActivity {
+    private static final String MAIN_URL = "https://appassets.androidplatform.net/assets/Roohu-ClipForge.html";
+    private static final long MIN_SPLASH_MS = 900;
 
-NÈJÊÊHÂˆš]X\ˆH‹™Ù]œ˜[YP][YJ
-Û™ÊH
-Ë™Ù]İX›JJH
-ˆWÌÌ
-KYYXSY]Y]T™]šY]™\‹“ÔSÓ—ĞÓÔÑTÕÔÖSÊNÂˆYˆ
-ˆOH[
-HÛÛ[YNÂˆ[ÈHHX]›X^
-KX]œ›İ[™
-‹™Ù]ZYÚ
+    private WebView web;
+    private View splash, glow, logo, title, tag, loader;
+    private ValueCallback<Uri[]> chooserCb;
+    private boolean splashGone = false;
+    private long t0;
+    private final Handler ui = new Handler(Looper.getMainLooper());
+    private final List<Animator> loops = new ArrayList<>();
+    private final ExecutorService worker = Executors.newSingleThreadExecutor();
+    private final ExecutorService netWorker = Executors.newSingleThreadExecutor();
+    private final AtomicInteger busy = new AtomicInteger();
+    private Uri videoUri;
+    private Uri camUri;
+    private volatile String pickTarget = "main";
+    private final Map<String, Uri> audioUris = new HashMap<>();
+    private String chooserAccept = "";
+    private ClipExporter exporter;
 
-H
-ˆˆÈ‹™Ù]ÚY
+    private final ActivityResultLauncher<Intent> chooser = registerForActivityResult(
+            new ActivityResultContracts.StartActivityForResult(), r -> {
+                if (chooserCb == null) return;
+                Uri[] res = WebChromeClient.FileChooserParams.parseResult(r.getResultCode(), r.getData());
+                if (res != null && res.length > 0) {
+                    if (chooserAccept.contains("video")) { if ("cam".equals(pickTarget)) camUri = res[0]; else videoUri = res[0]; }
+                    else if (chooserAccept.contains("audio")) {
+                        for (Uri u : res) copyToLib(u);
+                    }
+                }
+                pickTarget = "main";
+                chooserCb.onReceiveValue(res);
+                chooserCb = null;
+            });
 
-JJNÂˆš]X\ÈHš]X\˜Ü™X]TØØ[Yš]X\
-‹ËYJNÂˆ˜]˜Kš[Ë]P\œ˜^Sİ]]İ™X[H›ÈH™]È˜]˜Kš[Ë]P\œ˜^Sİ]]İ™X[J
-NÂˆË˜ÛÛ\™\ÜÊš]X\ÛÛ\™\ÜÑ›Ü›X]’”QËÌ‹›ÊNÂˆİ]œ]
-[™›ÚY][˜\ÙM™[˜ÛÙUÔİš[™Ê›ËĞ]P\œ˜^J
-K[™›ÚY][˜\ÙM““×ÕÔT
-JNÂˆBˆ™\JY™]È”ÓÓ“Øš™Xİ
+    @Override
+    protected void onCreate(Bundle b) {
+        super.onCreate(b);
+        scanLib();
+        setContentView(R.layout.activity_main);
+        t0 = SystemClock.elapsedRealtime();
+        web = findViewById(R.id.web);
+        splash = findViewById(R.id.splash);
+        glow = findViewById(R.id.glow);
+        logo = findViewById(R.id.logo);
+        title = findViewById(R.id.title);
+        tag = findViewById(R.id.tag);
+        loader = findViewById(R.id.loader);
+        if (Build.VERSION.SDK_INT < 29 && checkSelfPermission(Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED)
+            requestPermissions(new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 7);
+        startSplash();
+        setupWeb();
+        getOnBackPressedDispatcher().addCallback(this, new OnBackPressedCallback(true) {
+            @Override public void handleOnBackPressed() {
+                web.evaluateJavascript("(window.cfBack&&cfBack())?'1':'0'", v -> {
+                    if ("\"1\"".equals(v)) return;
+                    if (web.canGoBack()) { web.goBack(); return; }
+                    setEnabled(false);
+                    getOnBackPressedDispatcher().onBackPressed();
+                });
+            }
+        });
+        web.loadUrl(MAIN_URL);
+        ui.postDelayed(this::hideSplash, 8000); // failsafe: never trap the user behind the splash
+    }
 
-Kœ]
-›ÚÈ‹YJKœ]
-™œ˜[Y\È‹İ]
-JNÂˆHØ]Ú
-›İØX›H
-HÂˆ˜Z[
-Y™Ù]Y\ÜØYÙJ
-HOH[ÈÔİš[™Ê
-Hˆ™Ù]Y\ÜØYÙJ
-JNÂˆHš[˜[HÈHÈ‹œ™[X\ÙJ
-NÈHØ]Ú
-^Ù\[ÛˆYÛ›Ü™Y
-HÈHBˆJNÂˆB‚ˆÊŠˆ˜XÙH˜XÚÚ[™È
-L
-NˆÚ\™HHXZ[ˆ˜XÙH\È\š[™ÈHÛ\ˆ[œÈ[HÛˆHÛ™K›İ[™È\È\ØYY[™›ÈÙ[Z[šH[Z]\È\ÙYˆ
-‹Âˆ˜]˜\ØÜš\[\™˜XÙHX›XÈ›ÚY˜XÙU˜XÚÊš[˜[İš[™È™\JHÂˆš[˜[”ÓÓ“Øš™XİNÂˆHÈHH™]È”ÓÓ“Øš™Xİ
-™\JNÈHØ]Ú
-^Ù\[ÛˆJHÈ™]\›ÈBˆš[˜[[YHK›Ü[
-šYŠNÂˆÛÜšÙ\‹™^Xİ]J
+    private void setupWeb() {
+        final WebViewAssetLoader assets = new WebViewAssetLoader.Builder()
+                .addPathHandler("/assets/", new WebViewAssetLoader.AssetsPathHandler(this))
+                .addPathHandler("/music/", new WebViewAssetLoader.InternalStoragePathHandler(this, musicDir())).build();
+        WebSettings s = web.getSettings();
+        s.setJavaScriptEnabled(true);
+        s.setDomStorageEnabled(true);
+        s.setMediaPlaybackRequiresUserGesture(false);
+        s.setAllowFileAccess(false);
+        s.setAllowContentAccess(true);
+        s.setSupportZoom(false);
+        s.setMixedContentMode(WebSettings.MIXED_CONTENT_NEVER_ALLOW);
+        web.setBackgroundColor(0xFF0A1A1F);
+        web.setOverScrollMode(View.OVER_SCROLL_NEVER);
+        web.addJavascriptInterface(new Bridge(), "AndroidBridge");
+        web.setWebViewClient(new WebViewClient() {
+            @Override public WebResourceResponse shouldInterceptRequest(WebView v, WebResourceRequest r) {
+                return assets.shouldInterceptRequest(r.getUrl());
+            }
+            @Override public void onPageFinished(WebView v, String u) {
+                long left = Math.max(0, MIN_SPLASH_MS - (SystemClock.elapsedRealtime() - t0));
+                ui.postDelayed(MainActivity.this::hideSplash, left);
+            }
+            @Override public boolean shouldOverrideUrlLoading(WebView v, WebResourceRequest r) {
+                Uri u = r.getUrl();
+                if ("appassets.androidplatform.net".equals(u.getHost())) return false;
+                try { startActivity(new Intent(Intent.ACTION_VIEW, u)); } catch (Exception ignored) { }
+                return true;
+            }
+            @Override public boolean onRenderProcessGone(WebView v, RenderProcessGoneDetail d) {
+                runOnUiThread(MainActivity.this::recreate);
+                return true;
+            }
+        });
+        web.setWebChromeClient(new WebChromeClient() {
+            @Override public boolean onShowFileChooser(WebView w, ValueCallback<Uri[]> cb, FileChooserParams p) {
+                if (chooserCb != null) chooserCb.onReceiveValue(null);
+                chooserCb = cb;
+                StringBuilder acc = new StringBuilder();
+                for (String a : p.getAcceptTypes()) acc.append(a).append(',');
+                chooserAccept = acc.toString();
+                Intent i = p.createIntent();
+                for (String a : p.getAcceptTypes()) {
+                    if (a != null && a.startsWith(".")) { i.setType("*/*"); break; }
+                }
+                try { chooser.launch(i); }
+                catch (Exception e) { chooserCb = null; cb.onReceiveValue(null); toast("No file picker is available on this device."); }
+                return true;
+            }
+            @Override public void onPermissionRequest(PermissionRequest r) { r.deny(); }
+        });
+    }
 
-HOˆÂˆHÂˆYˆ
-šY[Õ\šHOH[
-H›İÈ™]È^Ù\[ÛŠ”XÚÈHšY[ÈYØZ[ˆÛÈH\Ø[ˆ™XY]ˆŠNÂˆ”ÓÓ\œ˜^H˜]ÈH˜XÙU˜XÚË™]Xİ
-XZ[Xİ]š]K\ËšY[Õ\šKK™Ù]İX›Jœİ\ŠKK™Ù]İX›J™[™ŠKK›ÜİX›Jœİ\‹KŒ
-JNÂˆ™\JY™]È”ÓÓ“Øš™Xİ
+    private void startSplash() {
+        logo.setAlpha(0f); logo.setScaleX(0.8f); logo.setScaleY(0.8f);
+        title.setAlpha(0f); title.setTranslationY(24f); tag.setAlpha(0f); loader.setAlpha(0f);
+        logo.animate().alpha(1f).scaleX(1f).scaleY(1f).setDuration(600).setInterpolator(new DecelerateInterpolator()).start();
+        title.animate().alpha(1f).translationY(0f).setStartDelay(250).setDuration(500).start();
+        tag.animate().alpha(1f).setStartDelay(450).setDuration(500).start();
+        loader.animate().alpha(1f).setStartDelay(600).setDuration(400).start();
+        ObjectAnimator g = ObjectAnimator.ofPropertyValuesHolder(glow,
+                PropertyValuesHolder.ofFloat(View.ALPHA, 0.35f, 0.95f),
+                PropertyValuesHolder.ofFloat(View.SCALE_X, 0.9f, 1.15f),
+                PropertyValuesHolder.ofFloat(View.SCALE_Y, 0.9f, 1.15f));
+        g.setDuration(1400); g.setRepeatMode(ValueAnimator.REVERSE); g.setRepeatCount(ValueAnimator.INFINITE);
+        g.setInterpolator(new AccelerateDecelerateInterpolator()); g.start(); loops.add(g);
+    }
 
-Kœ]
-›ÚÈ‹YJKœ]
-˜XÚÈ‹˜]ÊJNÂˆHØ]Ú
-›İØX›H
-HÂˆ˜Z[
-Y™Ù]Y\ÜØYÙJ
-HOH[ÈÔİš[™Ê
-Hˆ™Ù]Y\ÜØYÙJ
-JNÂˆBˆJNÂˆB‚ˆ˜]˜\ØÜš\[\™˜XÙHX›XÈİš[™È[XŠİš[™È\šJHÂˆYYXSY]Y]T™]šY]™\ˆˆH™]ÈYYXSY]Y]T™]šY]™\Š
-NÂˆHÂˆ‹œÙ]]TÛİ\˜ÙJXZ[Xİ]š]K\Ë\šKœ\œÙJ\šJJNÂˆš]X\ˆH‹™Ù]œ˜[YP][YJWÌÌYYXSY]Y]T™]šY]™\‹“ÔSÓ—ĞÓÔÑTÕÔÖSÊNÂˆYˆ
-ˆOH[
-H™]\›ˆˆÂˆš]X\ÈHš]X\˜Ü™X]TØØ[Yš]X\
-‹ŒM‹ÎYJNÂˆ˜]˜Kš[Ë]P\œ˜^Sİ]]İ™X[H›ÈH™]È˜]˜Kš[Ë]P\œ˜^Sİ]]İ™X[J
-NÂˆË˜ÛÛ\™\ÜÊš]X\ÛÛ\™\ÜÑ›Ü›X]’”QËÌ›ÊNÂˆ™]\›ˆ˜\ÙM™[˜ÛÙUÔİš[™Ê›ËĞ]P\œ˜^J
-K˜\ÙM““×ÕÔT
-NÂˆHØ]Ú
-^Ù\[ÛˆJHÈ™]\›ˆˆÈHš[˜[HÈHÈ‹œ™[X\ÙJ
-NÈHØ]Ú
-^Ù\[ÛˆYÛ›Ü™Y
-HÈHBˆB‚ˆ˜]˜\ØÜš\[\™˜XÙHX›XÈ›ÚYÜ[•šY[Êİš[™È\šJHÂˆHÂˆ[[HH™]È[[
-[[PÕSÓ—Õ’QUÊKœÙ]]P[™\J\šKœ\œÙJ\šJKšY[ËÛ\ŠK˜Y›YÜÊ[[‘“Q×ÑÔS•Ô‘PQÕT’WÔT“RTÔÒSÓŠNÂˆİ\Xİ]š]JJNÂˆHØ]Ú
-^Ù\[ÛˆJHÈØ\İ
-“›ÈšY[È^Y\ˆ›İ[™ˆŠNÈBˆB‚ˆ˜]˜\ØÜš\[\™˜XÙHX›XÈ›ÚYÚ\™UšY[Êİš[™È\šJHÂˆHÂˆ[[HH™]È[[
-[[PÕSÓ—ÔÑS‘
-KœÙ]\JšY[ËÛ\ŠKœ]^˜J[[‘VWÔÕ‘PSK\šKœ\œÙJ\šJJK˜Y›YÜÊ[[‘“Q×ÑÔS•Ô‘PQÕT’WÔT“RTÔÒSÓŠNÂˆİ\Xİ]š]J[[˜Ü™X]PÚÛÜÙ\ŠK”Ú\™HÛ\ŠJNÂˆHØ]Ú
-^Ù\[ÛˆJHÈØ\İ
-Ûİ[›İÜ[ˆHÚ\™HÚY]ˆŠNÈBˆB‚ˆ˜]˜\ØÜš\[\™˜XÙHX›XÈ›ÛÛX[ˆ[]UšY[Êİš[™È\šJHÂˆHÂˆ\šHHH\šKœ\œÙJ\šJNÂˆYˆ
-™š[H‹™\]X[ÊK™Ù]ØÚ[YJ
-JJH™]\›ˆ™]Èš[JK™Ù]]
+    private void hideSplash() {
+        if (splashGone) return;
+        splashGone = true;
+        splash.animate().alpha(0f).setDuration(350).withEndAction(() -> {
+            splash.setVisibility(View.GONE);
+            for (Animator a : loops) a.cancel();
+            loops.clear();
+        }).start();
+    }
 
-JK™[]J
-NÂˆ™]\›ˆÙ]ÛÛ[™\ÛÛ™\Š
-K™[]JK[[
-HˆÂˆHØ]Ú
-^Ù\[ÛˆJHÈ™]\›ˆ˜[ÙNÈBˆB‚ˆš]˜]Hİ]]İ™X[HÜÎÈš]˜]H\šH\šNÈš]˜]Hš[Hš[NÈš]˜]Hİš[™ÈÚİÛˆHˆÂ‚ˆ˜]˜\ØÜš\[\™˜XÙHX›XÈŞ[˜Ú›Ûš^™Y›ÛÛX[ˆ™YÚ[Šİš[™È›‹İš[™ÈZ[YJHÂˆÛÜÙT]ZY]
-YJNÂˆHÂˆİš[™È˜[YHH›ˆOH[È˜Û\ˆˆ›‹œ™\XÙP[
-–×KV˜K^ŒNK—ÈWH‹—ÈŠNÂˆYˆ
-˜[YKš\Ñ[\J
-JH˜[YHH˜Û\ÂˆYˆ
-Z[•‘T”ÒSÓ‹”Ñ×ÒS•HJHÂˆÛÛ[˜[Y\ÈˆH™]ÈÛÛ[˜[Y\Ê
-NÂˆ‹œ]
-YYXTİÜ™K“YYXPÛÛ[[œË‘TÔVWÓSQK˜[YJNÂˆ‹œ]
-YYXTİÜ™K“YYXPÛÛ[[œË“RSQWÕTKZ[YHOH[Z[YKš\Ñ[\J
-HÈ˜\XØ][Û‹ÛØİ]\İ™X[HˆˆZ[YJNÂˆ‹œ]
-YYXTİÜ™K“YYXPÛÛ[[œË”‘SUU‘WÔU[š\›Û›Y[‘T‘PÕÔ–WÑÕÓ“ĞQÈ
-È‹Ô›ÛÚPÛ\›Ü™ÙHŠNÂˆ‹œ]
-YYXTİÜ™K“YYXPÛÛ[[œË’T×ÔS‘S‘ËJNÂˆ\šHHÙ]ÛÛ[™\ÛÛ™\Š
-Kš[œÙ\
-YYXTİÜ™K‘İÛ›ØYË‘VT“SĞÓÓ•S•ÕT’KŠNÂˆYˆ
-\šHOH[
-H™]\›ˆ˜[ÙNÂˆÜÈHÙ]ÛÛ[™\ÛÛ™\Š
-K›Ü[“İ]]İ™X[J\šJNÂˆÚİÛˆH‘İÛ›ØYËÔ›ÛÚPÛ\›Ü™ÙKÈˆ
-È˜[YNÂˆH[ÙHÂˆš[H\ˆHÙ]^\›˜[š[\Ñ\Š[š\›Û›Y[‘T‘PÕÔ–WÓSÕ’QTÊNÂˆYˆ
-\ˆOH[
-H™]\›ˆ˜[ÙNÂˆš[HH™]Èš[J\‹˜[YJNÂˆÜÈH™]Èš[Sİ]]İ™X[Jš[JNÂˆÚİÛˆHš[K™Ù]XœÛÛ]T]
+    private void toast(String m) { runOnUiThread(() -> Toast.makeText(this, m, Toast.LENGTH_LONG).show()); }
 
-NÂˆBˆ™]\›ˆÜÈOH[ÂˆHØ]Ú
-^Ù\[ÛˆJHÈÛÜÙT]ZY]
-YJNÈ™]\›ˆ˜[ÙNÈBˆBˆ˜]˜\ØÜš\[\™˜XÙHX›XÈŞ[˜Ú›Ûš^™Y›ÛÛX[ˆÚ[šÊİš[™È
-HÂˆHÈÜËÜš]J˜\ÙM™XÛÙJ˜\ÙM‘QUS
-JNÈ™]\›ˆYNÈBˆØ]Ú
-^Ù\[ÛˆJHÈÛÜÙT]ZY]
-YJNÈ™]\›ˆ˜[ÙNÈBˆBˆ˜]˜\ØÜš\[\™˜XÙHX›XÈŞ[˜Ú›Ûš^™Y›ÛÛX[ˆ[™
+    /** Receives exported clips from the page in chunks and writes them to Downloads/RoohuClipForge. */
+    /** Songs the user added live in the app's own storage so they stay after the app closes. */
+    private File musicDir() { File d = new File(getFilesDir(), "music"); d.mkdirs(); return d; }
 
-HÂˆHÂˆÜË™›\Ú
+    private void copyToLib(Uri u) {
+        String name = displayName(u).replaceAll("[\\\\/:*?\"<>|]", "_");
+        File dst = new File(musicDir(), name);
+        try (InputStream in = getContentResolver().openInputStream(u); OutputStream os = new FileOutputStream(dst)) {
+            if (in == null) return;
+            byte[] buf = new byte[1 << 16];
+            int n;
+            while ((n = in.read(buf)) > 0) os.write(buf, 0, n);
+            audioUris.put(name, Uri.fromFile(dst));
+        } catch (Exception ignored) { }
+    }
 
-NÈÜË˜ÛÜÙJ
-NÈÜÈH[ÂˆYˆ
-\šHOH[
-HÂˆÛÛ[˜[Y\ÈˆH™]ÈÛÛ[˜[Y\Ê
-NÂˆ‹œ]
-YYXTİÜ™K“YYXPÛÛ[[œË’T×ÔS‘S‘Ë
-NÂˆÙ]ÛÛ[™\ÛÛ™\Š
-K\]J\šK‹[[
-NÂˆBˆØ\İ
-”Ø]™YÈˆ
-ÈÚİÛŠNÂˆ\šHH[Èš[HH[Âˆ™]\›ˆYNÂˆHØ]Ú
-^Ù\[ÛˆJHÈÛÜÙT]ZY]
-YJNÈ™]\›ˆ˜[ÙNÈBˆBˆ˜]˜\ØÜš\[\™˜XÙHX›XÈŞ[˜Ú›Ûš^™Y›ÚYX›Ü
+    private void scanLib() {
+        File[] fs = musicDir().listFiles();
+        if (fs != null) for (File f : fs) audioUris.put(f.getName(), Uri.fromFile(f));
+    }
 
-HÈÛÜÙT]ZY]
-YJNÈB‚ˆš]˜]H›ÚYÛÜÙT]ZY]
-›ÛÛX[ˆ[]T\X[
-HÂˆHÈYˆ
-ÜÈOH[
-HÜË˜ÛÜÙJ
-NÈHØ]Ú
-^Ù\[ÛˆYÛ›Ü™Y
-HÈBˆÜÈH[ÂˆHÂˆYˆ
-[]T\X[
-HÂˆYˆ
-\šHOH[
-HÙ]ÛÛ[™\ÛÛ™\Š
-K™[]J\šK[[
-NÂˆYˆ
-š[HOH[
-Hš[K™[]J
-NÂˆBˆHØ]Ú
-^Ù\[ÛˆYÛ›Ü™Y
-HÈBˆ\šHH[Èš[HH[ÂˆBˆB‚ˆİ™\œšYH›İXİY›ÚYÛ”™\İ[YJ
-HÈİ\\‹›Û”™\İ[YJ
-NÈYˆ
-ÙXˆOH[
-HÙX‹›Û”™\İ[YJ
-NÈBˆİ™\œšYH›İXİY›ÚYÛ”]\ÙJ
-HÈYˆ
-ÙXˆOH[
-HÙX‹›Û”]\ÙJ
-NÈİ\\‹›Û”]\ÙJ
-NÈBˆİ™\œšYH›İXİY›ÚYÛ‘\İ›ŞJ
-HÂˆZKœ™[[İ™PØ[˜XÚÜĞ[™Y\ÜØYÙ\Ê[
-NÂˆÛÜšÙ\‹œÚ]İÛ“›İÊ
-NÂˆ›Üˆ
-[š[X]ÜˆHˆÛÜÊHK˜Ø[˜Ù[
+    private String displayName(Uri u) {
+        String n = null;
+        try (Cursor c = getContentResolver().query(u, new String[]{OpenableColumns.DISPLAY_NAME}, null, null, null)) {
+            if (c != null && c.moveToFirst()) n = c.getString(0);
+        } catch (Exception ignored) { }
+        return n == null ? String.valueOf(u.getLastPathSegment()) : n;
+    }
 
-NÂˆYˆ
-ÙXˆOH[
-HÂˆšY]ÑÜ›İ\H
-šY]ÑÜ›İ\
-HÙX‹™Ù]\™[
+    private void js(final String code) {
+        runOnUiThread(() -> { if (web != null) web.evaluateJavascript(code, null); });
+    }
 
-NÂˆYˆ
-OH[
-Hœ™[[İ™UšY]ÊÙXŠNÂˆÙX‹™\İ›ŞJ
-NÂˆÙXˆH[ÂˆBˆİ\\‹›Û‘\İ›ŞJ
-NÂˆB‚ˆÊŠˆ\İ[™HÙˆY™[˜ÙH›Üˆš[H˜[Y\È
-HYÙH[™XYHØ[š]\Ù\ÊNˆ›È]Ë™\Ù\™YÚ\˜Xİ\œÈÜˆ[\H˜[Y\Ëˆ
-‹Âˆİ]XÈİš[™ÈØY™S˜[YJİš[™ÈŠHÂˆİš[™ÈˆHˆOH[Èˆˆˆ‹œ™\XÙP[
-–×ĞÛ›WÎŠ×ŸH‹—ÈŠKœ™\XÙP[
-——ŠßŠÉ‹ˆŠKš[J
-NÂˆYˆ
-‹›[™İ
+    private void keepAwake(boolean on) {
+        runOnUiThread(() -> {
+            if (on) { busy.incrementAndGet(); getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON); }
+            else if (busy.decrementAndGet() <= 0) { busy.set(0); getWindow().clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON); }
+        });
+    }
 
-Hˆ
-HˆH‹œİXœİš[™Ê
-Kš[J
-NÂˆ™]\›ˆ‹š\Ñ[\J
-HÈ˜Û\ˆˆÂˆBŸB
+    private void reply(int id, JSONObject o) { js("cfNative.onResult(" + id + "," + JSONObject.quote(o.toString()) + ")"); }
+
+    private void fail(int id, String msg) {
+        try { reply(id, new JSONObject().put("ok", false).put("error", msg)); } catch (Exception ignored) { }
+    }
+
+    private class Bridge {
+        /** Native features available (offline captions, hardware export, gallery). */
+        private boolean secretName(String n) { return "groq".equals(n) || "gemini".equals(n) || "openrouter".equals(n) || "yt_id".equals(n) || "yt_secret".equals(n) || "ytKey".equals(n); }
+        @JavascriptInterface public String getSecret(String name) { return secretName(name) ? SecureStore.get(MainActivity.this, name) : ""; }
+        @JavascriptInterface public boolean setSecret(String name, String value) { return secretName(name) && SecureStore.set(MainActivity.this, name, value); }
+        /** Optional Gemini call: the page sends the prompt and schema; the key never leaves the encrypted store. */
+        @JavascriptInterface public void gemini(final String req) {
+            final JSONObject q;
+            try { q = new JSONObject(req); } catch (Exception e) { return; }
+            final int id = q.optInt("id");
+            worker.execute(() -> {
+                try {
+                    // Which AI answers: "gemini" (default), "openrouter" (free models), or "both" (Gemini first, OpenRouter when Gemini is out).
+                    String prov = q.optString("prov", "gemini");
+                    String gKey = SecureStore.get(MainActivity.this, "gemini"), oKey = SecureStore.get(MainActivity.this, "openrouter");
+                    String sys = q.optString("system"), usr = q.optString("user"), pick = q.optString("orModel", "auto");
+                    JSONObject schema = q.getJSONObject("schema");
+                    JSONArray imgs = q.optJSONArray("images");
+                    String text;
+                    if ("openrouter".equals(prov)) {
+                        if (oKey.isEmpty()) throw new Exception("Paste your OpenRouter key in Settings first.");
+                        text = OpenRouterClient.generateJson(MainActivity.this, oKey, pick, sys, usr, schema, imgs);
+                    } else if ("both".equals(prov)) {
+                        if (gKey.isEmpty() && oKey.isEmpty()) throw new Exception("Paste a Gemini or OpenRouter key in Settings first.");
+                        if (gKey.isEmpty()) {
+                            text = OpenRouterClient.generateJson(MainActivity.this, oKey, pick, sys, usr, schema, imgs);
+                        } else {
+                            try {
+                                text = GeminiClient.generateJson(MainActivity.this, gKey, sys, usr, schema, imgs);
+                            } catch (Exception ge) {
+                                boolean limit = ge instanceof Net.HttpFail && (((Net.HttpFail) ge).code == 429 || ((Net.HttpFail) ge).code >= 500);
+                                if (!limit || oKey.isEmpty()) throw ge;
+                                try {
+                                    text = OpenRouterClient.generateJson(MainActivity.this, oKey, pick, sys, usr, schema, imgs);
+                                } catch (Exception oe) {
+                                    throw new Exception("Both AIs are unavailable. Gemini: " + ge.getMessage() + " OpenRouter: " + oe.getMessage());
+                                }
+                            }
+                        }
+                    } else {
+                        if (gKey.isEmpty()) throw new Exception("Paste your Gemini key in Settings first.");
+                        text = GeminiClient.generateJson(MainActivity.this, gKey, sys, usr, schema, imgs);
+                    }
+                    reply(id, new JSONObject().put("ok", true).put("text", text));
+                } catch (Throwable t) {
+                    fail(id, t.getMessage() == null ? t.toString() : t.getMessage());
+                }
+            });
+        }
+        /** Settings > OpenRouter: the free models this key can use. */
+        @JavascriptInterface public void orModels(final String req) {
+            final JSONObject q;
+            try { q = new JSONObject(req); } catch (Exception e) { return; }
+            final int id = q.optInt("id");
+            worker.execute(() -> {
+                try {
+                    String key = SecureStore.get(MainActivity.this, "openrouter");
+                    reply(id, new JSONObject().put("ok", true).put("models", OpenRouterClient.freeModelsJson(MainActivity.this, key, true)));
+                } catch (Throwable t) {
+                    fail(id, t.getMessage() == null ? t.toString() : t.getMessage());
+                }
+            });
+        }
+        /** Music Finder: songs on YouTube through the official API (list + preview only, no downloading). */
+        @JavascriptInterface public void musicSearch(final String req) {
+            final JSONObject q;
+            try { q = new JSONObject(req); } catch (Exception e) { return; }
+            final int id = q.optInt("id");
+            netWorker.execute(() -> {
+                try {
+                    String key = SecureStore.get(MainActivity.this, "ytKey");
+                    if (key.isEmpty()) throw new Exception("Paste your free YouTube API key in the Music section first.");
+                    reply(id, new JSONObject().put("ok", true).put("items", MusicSearch.search(key, q.optString("q"), q.optInt("max", 8), q.optBoolean("cc", false))));
+                } catch (Throwable t) { fail(id, t.getMessage() == null ? t.toString() : t.getMessage()); }
+            });
+        }
+        /** YouTube: sign in through Google in the browser (refresh token stays in SecureStore), then upload finished clips. */
+        @JavascriptInterface public String ytStatus() { return YouTubeClient.connected(MainActivity.this) ? "1" : "0"; }
+        @JavascriptInterface public void ytDisconnect() { YouTubeClient.disconnect(MainActivity.this); }
+        @JavascriptInterface public void ytConnect(final String req) {
+            final JSONObject q;
+            try { q = new JSONObject(req); } catch (Exception e) { return; }
+            final int id = q.optInt("id");
+            netWorker.execute(() -> {
+                try {
+                    YouTubeClient.connect(MainActivity.this, u -> runOnUiThread(() -> startActivity(new Intent(Intent.ACTION_VIEW, u))));
+                    reply(id, new JSONObject().put("ok", true));
+                } catch (Throwable t) { fail(id, t.getMessage() == null ? t.toString() : t.getMessage()); }
+            });
+        }
+        @JavascriptInterface public void ytUpload(final String req) {
+            final JSONObject q;
+            try { q = new JSONObject(req); } catch (Exception e) { return; }
+            final int id = q.optInt("id");
+            netWorker.execute(() -> {
+                keepAwake(true);
+                try {
+                    String vid = YouTubeClient.upload(MainActivity.this, Uri.parse(q.getString("uri")), q.optString("title"), q.optString("desc"),
+                            q.optJSONArray("tags"), q.optString("privacy"), p -> js("cfNative.onProgress(" + id + "," + p + ")"));
+                    reply(id, new JSONObject().put("ok", true).put("videoId", vid));
+                } catch (Throwable t) { fail(id, t.getMessage() == null ? t.toString() : t.getMessage()); }
+                finally { keepAwake(false); }
+            });
+        }
+        @JavascriptInterface public void setPickTarget(String t) { pickTarget = "cam".equals(t) ? "cam" : "main"; }
+        @JavascriptInterface public boolean hasCam() { return camUri != null; }
+        @JavascriptInterface public void clearCam() { camUri = null; }
+        @JavascriptInterface public String musicLib() {
+            JSONArray a = new JSONArray();
+            File[] fs = musicDir().listFiles();
+            if (fs != null) { java.util.Arrays.sort(fs); for (File f : fs) a.put(f.getName()); }
+            return a.toString();
+        }
+        @JavascriptInterface public void musicRemove(String name) {
+            String n = new File(name == null ? "" : name).getName();
+            if (!n.isEmpty()) { new File(musicDir(), n).delete(); audioUris.remove(n); }
+        }
+        @JavascriptInterface public String nativeInfo() { return "{\"ok\":true,\"video\":" + (videoUri != null) + "}"; }
+
+        /** Offline speech-to-text with per-word timing for one clip. Result arrives through cfNative.onResult. */
+        @JavascriptInterface public void transcribe(final String req) {
+            final int id;
+            final JSONObject q;
+            try { q = new JSONObject(req); id = q.getInt("id"); } catch (Exception e) { return; }
+            final Uri src = videoUri;
+            if (src == null) { fail(id, "Pick the video again so the app can read its audio."); return; }
+            keepAwake(true);
+            worker.execute(() -> {
+                try {
+                    JSONObject r = Transcriber.run(MainActivity.this, src, q.getDouble("start"), q.getDouble("end"),
+                            q.optString("lang", "auto"), q.optString("key", ""), p -> js("cfNative.onProgress(" + id + "," + p + ")"));
+                    if (q.optBoolean("energy")) {
+                        double[] pr = Energy.profile(MainActivity.this, src, q.getDouble("start"), q.getDouble("end"));
+                        JSONArray ea = new JSONArray();
+                        for (double v : pr) ea.put((int) Math.round(v * 1000));
+                        r.put("energy", ea);
+                    }
+                    r.put("ok", true);
+                    reply(id, r);
+                } catch (Throwable e) {
+                    fail(id, e.getMessage() == null ? e.toString() : e.getMessage());
+                } finally { keepAwake(false); }
+            });
+        }
+
+        /** Renders one clip with the hardware encoder and saves it to Movies/RoohuClipForge (Gallery). */
+        @JavascriptInterface @UnstableApi public void exportClip(final String specJson) {
+            final int id;
+            final JSONObject spec;
+            try { spec = new JSONObject(specJson); id = spec.getInt("id"); } catch (Exception e) { return; }
+            final Uri src = videoUri;
+            if (src == null) { fail(id, "Pick the video again so the app can read it."); return; }
+            keepAwake(true);
+            worker.execute(() -> {
+                Uri music = null;
+                try {
+                    if (("react".equals(spec.optString("look", "normal")) || "neon".equals(spec.optString("look", "normal"))) && !spec.has("punches")) {
+                        double[] pk = Energy.punches(MainActivity.this, src, spec.getDouble("s"), spec.getDouble("e"));
+                        JSONArray pa = new JSONArray();
+                        for (double v : pk) pa.put(v);
+                        spec.put("punches", pa);
+                    }
+                } catch (Throwable ignored) { }
+                try {
+                    JSONObject m = spec.optJSONObject("music");
+                    if (m != null) {
+                        String type = m.optString("type", "none");
+                        if ("file".equals(type)) music = audioUris.get(m.optString("name"));
+                        else if ("synth".equals(type)) {
+                            File f = new File(getCacheDir(), "music2_" + m.optString("mood", "upbeat") + ".wav");
+                            int secs = (int) Math.ceil(spec.getDouble("e") - spec.getDouble("s")) + 2;
+                            if (!f.exists() || f.length() < secs * 64000L) MusicSynth.generate(f, m.optString("mood", "upbeat"), secs + 8);
+                            music = Uri.fromFile(f);
+                        }
+                    }
+                } catch (Throwable e) { music = null; }
+                final Uri musicF = music;
+                runOnUiThread(() -> {
+                    exporter = new ClipExporter();
+                    exporter.start(MainActivity.this, src, spec, musicF, camUri, new ClipExporter.Listener() {
+                        @Override public void progress(int pct) { js("cfNative.onProgress(" + id + "," + pct + ")"); }
+                        @Override public void done(final File file) {
+                            worker.execute(() -> {
+                                try {
+                                    Uri u = ClipExporter.publish(MainActivity.this, file, safeName(spec.optString("fname", spec.optString("title", "clip"))) + "-" + System.currentTimeMillis() % 100000);
+                                    reply(id, new JSONObject().put("ok", true).put("uri", u.toString()));
+                                } catch (Throwable e) { fail(id, e.getMessage() == null ? e.toString() : e.getMessage()); }
+                                finally { keepAwake(false); }
+                            });
+                        }
+                        @Override public void error(String message) { fail(id, message); keepAwake(false); }
+                    });
+                });
+            });
+        }
+
+        @JavascriptInterface public void cancelExport() {
+            runOnUiThread(() -> { if (exporter != null) exporter.cancel(); });
+        }
+
+        /** Small JPEG frames of the video at the given times (seconds), as base64, so the AI can look at the picture. */
+        @JavascriptInterface public void frames(final String req) {
+            final JSONObject q;
+            try { q = new JSONObject(req); } catch (Exception e) { return; }
+            final int id = q.optInt("id");
+            worker.execute(() -> {
+                MediaMetadataRetriever r = new MediaMetadataRetriever();
+                try {
+                    if (videoUri == null) throw new Exception("Pick the video again so the app can read it.");
+                    r.setDataSource(MainActivity.this, videoUri);
+                    JSONArray ts = q.getJSONArray("times"), out = new JSONArray();
+                    for (int i = 0; i < ts.length(); i++) {
+                        Bitmap b = r.getFrameAtTime((long) (ts.getDouble(i) * 1_000_000), MediaMetadataRetriever.OPTION_CLOSEST_SYNC);
+                        if (b == null) continue;
+                        int w = 448, h = Math.max(1, Math.round(b.getHeight() * 448f / b.getWidth()));
+                        Bitmap s = Bitmap.createScaledBitmap(b, w, h, true);
+                        java.io.ByteArrayOutputStream bo = new java.io.ByteArrayOutputStream();
+                        s.compress(Bitmap.CompressFormat.JPEG, 72, bo);
+                        out.put(android.util.Base64.encodeToString(bo.toByteArray(), android.util.Base64.NO_WRAP));
+                    }
+                    reply(id, new JSONObject().put("ok", true).put("frames", out));
+                } catch (Throwable t) {
+                    fail(id, t.getMessage() == null ? t.toString() : t.getMessage());
+                } finally { try { r.release(); } catch (Exception ignored) { } }
+            });
+        }
+
+        /** Face tracking (M24): where the main face is during the clip. Runs fully on the phone, nothing is uploaded and no Gemini limit is used. */
+        @JavascriptInterface public void faceTrack(final String req) {
+            final JSONObject q;
+            try { q = new JSONObject(req); } catch (Exception e) { return; }
+            final int id = q.optInt("id");
+            worker.execute(() -> {
+                try {
+                    if (videoUri == null) throw new Exception("Pick the video again so the app can read it.");
+                    JSONArray raw = FaceTrack.detect(MainActivity.this, videoUri, q.getDouble("start"), q.getDouble("end"), q.optDouble("step", 1.0));
+                    reply(id, new JSONObject().put("ok", true).put("track", raw));
+                } catch (Throwable t) {
+                    fail(id, t.getMessage() == null ? t.toString() : t.getMessage());
+                }
+            });
+        }
+
+        @JavascriptInterface public String thumb(String uri) {
+            MediaMetadataRetriever r = new MediaMetadataRetriever();
+            try {
+                r.setDataSource(MainActivity.this, Uri.parse(uri));
+                Bitmap b = r.getFrameAtTime(1_000_000, MediaMetadataRetriever.OPTION_CLOSEST_SYNC);
+                if (b == null) return "";
+                Bitmap s = Bitmap.createScaledBitmap(b, 216, 384, true);
+                java.io.ByteArrayOutputStream bo = new java.io.ByteArrayOutputStream();
+                s.compress(Bitmap.CompressFormat.JPEG, 70, bo);
+                return Base64.encodeToString(bo.toByteArray(), Base64.NO_WRAP);
+            } catch (Exception e) { return ""; } finally { try { r.release(); } catch (Exception ignored) { } }
+        }
+
+        @JavascriptInterface public void openVideo(String uri) {
+            try {
+                Intent i = new Intent(Intent.ACTION_VIEW).setDataAndType(Uri.parse(uri), "video/mp4").addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
+                startActivity(i);
+            } catch (Exception e) { toast("No video player found."); }
+        }
+
+        @JavascriptInterface public void shareVideo(String uri) {
+            try {
+                Intent i = new Intent(Intent.ACTION_SEND).setType("video/mp4").putExtra(Intent.EXTRA_STREAM, Uri.parse(uri)).addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
+                startActivity(Intent.createChooser(i, "Share clip"));
+            } catch (Exception e) { toast("Could not open the share sheet."); }
+        }
+
+        @JavascriptInterface public boolean deleteVideo(String uri) {
+            try {
+                Uri u = Uri.parse(uri);
+                if ("file".equals(u.getScheme())) return new File(u.getPath()).delete();
+                return getContentResolver().delete(u, null, null) > 0;
+            } catch (Exception e) { return false; }
+        }
+
+        private OutputStream os; private Uri uri; private File file; private String shown = "";
+
+        @JavascriptInterface public synchronized boolean begin(String fn, String mime) {
+            closeQuiet(true);
+            try {
+                String name = fn == null ? "clip" : fn.replaceAll("[^A-Za-z0-9._ -]", "_");
+                if (name.isEmpty()) name = "clip";
+                if (Build.VERSION.SDK_INT >= 29) {
+                    ContentValues v = new ContentValues();
+                    v.put(MediaStore.MediaColumns.DISPLAY_NAME, name);
+                    v.put(MediaStore.MediaColumns.MIME_TYPE, mime == null || mime.isEmpty() ? "application/octet-stream" : mime);
+                    v.put(MediaStore.MediaColumns.RELATIVE_PATH, Environment.DIRECTORY_DOWNLOADS + "/RoohuClipForge");
+                    v.put(MediaStore.MediaColumns.IS_PENDING, 1);
+                    uri = getContentResolver().insert(MediaStore.Downloads.EXTERNAL_CONTENT_URI, v);
+                    if (uri == null) return false;
+                    os = getContentResolver().openOutputStream(uri);
+                    shown = "Downloads/RoohuClipForge/" + name;
+                } else {
+                    File dir = getExternalFilesDir(Environment.DIRECTORY_MOVIES);
+                    if (dir == null) return false;
+                    file = new File(dir, name);
+                    os = new FileOutputStream(file);
+                    shown = file.getAbsolutePath();
+                }
+                return os != null;
+            } catch (Exception e) { closeQuiet(true); return false; }
+        }
+        @JavascriptInterface public synchronized boolean chunk(String b64) {
+            try { os.write(Base64.decode(b64, Base64.DEFAULT)); return true; }
+            catch (Exception e) { closeQuiet(true); return false; }
+        }
+        @JavascriptInterface public synchronized boolean end() {
+            try {
+                os.flush(); os.close(); os = null;
+                if (uri != null) {
+                    ContentValues v = new ContentValues();
+                    v.put(MediaStore.MediaColumns.IS_PENDING, 0);
+                    getContentResolver().update(uri, v, null, null);
+                }
+                toast("Saved to " + shown);
+                uri = null; file = null;
+                return true;
+            } catch (Exception e) { closeQuiet(true); return false; }
+        }
+        @JavascriptInterface public synchronized void abort() { closeQuiet(true); }
+
+        private void closeQuiet(boolean deletePartial) {
+            try { if (os != null) os.close(); } catch (Exception ignored) { }
+            os = null;
+            try {
+                if (deletePartial) {
+                    if (uri != null) getContentResolver().delete(uri, null, null);
+                    if (file != null) file.delete();
+                }
+            } catch (Exception ignored) { }
+            uri = null; file = null;
+        }
+    }
+
+    @Override protected void onResume() { super.onResume(); if (web != null) web.onResume(); }
+    @Override protected void onPause() { if (web != null) web.onPause(); super.onPause(); }
+    @Override protected void onDestroy() {
+        ui.removeCallbacksAndMessages(null);
+        worker.shutdownNow();
+        for (Animator a : loops) a.cancel();
+        if (web != null) {
+            ViewGroup p = (ViewGroup) web.getParent();
+            if (p != null) p.removeView(web);
+            web.destroy();
+            web = null;
+        }
+        super.onDestroy();
+    }
+
+    /** Last line of defence for file names (the page already sanitises): no paths, reserved characters or empty names. */
+    static String safeName(String n) {
+        String r = n == null ? "" : n.replaceAll("[\\p{Cntrl}\\\\/:*?\"<>|]", "_").replaceAll("^\\.+|\\.+$", "").trim();
+        if (r.length() > 80) r = r.substring(0, 80).trim();
+        return r.isEmpty() ? "clip" : r;
+    }
+}
+
