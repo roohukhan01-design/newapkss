@@ -1,1 +1,443 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíóM7N‹Z–‹­¦ëeŠw¬ÕÁ…­…”½´¹É½½¡Ô¹±¥Á™½É”ì()¥µÁ½ÉÐ…¹‘É½¥¹É…Á¡¥Ì¹	¥Ñµ…Àì)¥µÁ½ÉÐ…¹‘É½¥¹É…Á¡¥Ì¹…¹Ù…Ìì)¥µÁ½ÉÐ…¹‘É½¥¹É…Á¡¥Ì¹½±½Èì)¥µÁ½ÉÐ…¹‘É½¥¹É…Á¡¥Ì¹1¥¹•…ÉÉ…‘¥•¹Ðì)¥µÁ½ÉÐ…¹‘É½¥¹É…Á¡¥Ì¹A…¥¹Ðì)¥µÁ½ÉÐ…¹‘É½¥¹É…Á¡¥Ì¹A…Ñ ì)¥µÁ½ÉÐ…¹‘É½¥¹É…Á¡¥Ì¹I…‘¥…±É…‘¥•¹Ðì)¥µÁ½ÉÐ…¹‘É½¥¹É…Á¡¥Ì¹I•Ñì)¥µÁ½ÉÐ…¹‘É½¥¹É…Á¡¥Ì¹M¡…‘•Èì)¥µÁ½ÉÐ…¹‘É½¥¹É…Á¡¥Ì¹QåÁ•™…”ì()¥µÁ½ÉÐ©…Ù„¹ÕÑ¥°¹ÉÉ…å1¥ÍÐì)¥µÁ½ÉÐ©…Ù„¹ÕÑ¥°¹1¥ÍÐì((¼¨¨É…ÝÌ•Ù•Éä½Ù•É±…ä€¡…¹¥µ…Ñ•…ÁÑ¥½¹Ì°Ñ¡”€Í¹…µ”É•‘¥Ð°ÁÉ½É•ÍÌ‰…È°Ù¥¹•ÑÑ”¤…Ì‰¥Ñµ…ÁÌ¸€¨¼)™¥¹…°±…ÍÌA…¥¹Ñ•Èì(€€€ÍÑ…Ñ¥Œ™¥¹…°¥¹Ð9P€ô€ÁáàÍì(€€€ÍÑ…Ñ¥Œ™¥¹…°¥¹Ð=I9€ô€ÁááÍì(€€€ÍÑ…Ñ¥Œ™¥¹…°¥¹ÐA%9,€ô€ÁáÍàÄì(€€€ÍÑ…Ñ¥Œ™¥¹…°¥¹Ðe8€ô€ÁáÕÍÀì((€€€€¼¨¨=¹”ÍÁ½­•¸Ý½ÉÝ¥Ñ ¥ÑÌÍÑ…ÉÐ½•¹Ñ¥µ”¥¸Í•½¹‘Ì€¡Í½ÕÉ”Ù¥‘•¼Ñ¥µ”¤¸€¨¼(€€€ÍÑ…Ñ¥Œ™¥¹…°±…ÍÌ\ì(€€€€€€€™¥¹…°MÑÉ¥¹œÜì™¥¹…°‘½Õ‰±”„°ˆì(€€€€€€€\¡MÑÉ¥¹œÜ°‘½Õ‰±”„°‘½Õ‰±”ˆ¤ìÑ¡¥Ì¹Ü€ôÜìÑ¡¥Ì¹„€ô„ìÑ¡¥Ì¹ˆ€ôˆìô(€€€ô((€€€€¼¨¨…ÁÑ¥½¸Á…”è„™•ÜÝ½É‘ÌÍ¡½Ý¸Ñ½•Ñ¡•È¸€¨¼(€€€ÍÑ…Ñ¥Œ™¥¹…°±…ÍÌÕ”ì(€€€€€€€™¥¹…°‘½Õ‰±”„°ˆì™¥¹…°1¥ÍÐñ\øÝ½É‘Ì€ô¹•ÜÉÉ…å1¥ÍÐðø ¤ì(€€€€€€€Õ”¡‘½Õ‰±”„°‘½Õ‰±”ˆ¤ìÑ¡¥Ì¹„€ô„ìÑ¡¥Ì¹ˆ€ôˆìô(€€€ô((€€€ÍÑ…Ñ¥ŒQåÁ•™…”™…”¡MÑÉ¥¹œ™½¹Ð¤ìÉ•ÑÕÉ¸½¹ÑÌ¹•Ð¡™½¹Ð¤ìô((€€€€¼¨¨QÉÕ”Ý¡•¸•Ù•Éä±•ÑÑ•È¥Ì1…Ñ¥¸½‘¥¥ÑÌ½ÁÕ¹ÑÕ…Ñ¥½¸°Í¼Ñ¡”‘¥ÍÁ±…ä™½¹Ð…¸‘É…Ü¥Ð¸€¨¼(€€€ÍÑ…Ñ¥Œ‰½½±•…¸±…Ñ¥¸¡MÑÉ¥¹œÜ¤ì(€€€€€€€™½È€¡¥¹Ð¤€ô€Àì¤€ðÜ¹±•¹Ñ  ¤ì¤¬¬¤¥˜€¡Ü¹¡…ÉÐ¡¤¤€ø€ÁàÀÈÑ€˜˜€…¡…É…Ñ•È¹¥Í]¡¥Ñ•ÍÁ…”¡Ü¹¡…ÉÐ¡¤¤¤¤ì(€€€€€€€€€€€¡…È €ôÜ¹¡…ÉÐ¡¤¤ì(€€€€€€€€€€€¥˜€¡ €ð€ÁàÈÀÀÀñð €ø€ÁàÉ	¤É•ÑÕÉ¸™…±Í”ì(€€€€€€€ô(€€€€€€€É•ÑÕÉ¸ÑÉÕ”ì(€€€ô((€€€ÍÑ…Ñ¥Œ‰½½±•…¸…É…‰¥MÉ¥ÁÐ¡MÑÉ¥¹œÜ¤ì(€€€€€€€™½È€¡¥¹Ð¤€ô€Àì¤€ðÜ¹±•¹Ñ  ¤ì¤¬¬¤¥˜€¡Ü¹¡…ÉÐ¡¤¤€øô€ÁàÀØÀÀ€˜˜Ü¹¡…ÉÐ¡¤¤€ðô€ÁàÀÙ¤É•ÑÕÉ¸ÑÉÕ”ì(€€€€€€€É•ÑÕÉ¸™…±Í”ì(€€€ô((€€€€¼¨¨QåÁ•™…”™½È½¹”Ý½ÉèÑ¡”‘¥ÍÁ±…ä™½¹Ð™½È1…Ñ¥¸°„‰½±ÍÉ¥ÁÐ™½¹Ð™½È•Ù•ÉåÑ¡¥¹œ•±Í”¸€¨¼(€€€ÍÑ…Ñ¥ŒQåÁ•™…”™…•½È¡MÑÉ¥¹œÝ½É°QåÁ•™…”‰…Í”¤ì(€€€€€€€¥˜€¡±…Ñ¥¸¡Ý½É¤¤É•ÑÕÉ¸‰…Í”ì(€€€€€€€¥˜€¡…É…‰¥MÉ¥ÁÐ¡Ý½É¤€˜˜½¹ÑÌ¹¡…Ì ‰Q…©…Ý…°ˆ¤¤É•ÑÕÉ¸½¹ÑÌ¹•Ð ‰Q…©…Ý…°ˆ¤ì(€€€€€€€É•ÑÕÉ¸QåÁ•™…”¹É•…Ñ” ‰Í…¹ÌµÍ•É¥˜ˆ°QåÁ•™…”¹	=1¤ì(€€€ô((€€€ÍÑ…Ñ¥Œ	¥Ñµ…ÀÑÉ…¹ÍÁ…É•¹Ð ¤ì(€€€€€€€É•ÑÕÉ¸	¥Ñµ…À¹É•…Ñ•	¥Ñµ…À È°€È°	¥Ñµ…À¹½¹™¥œ¹I	|àààà¤ì(€€€ô((€€€€¼¨¨A…±•ÑÑ”½˜„…ÁÑ¥½¸ÍÑå±”èí¥¹…Ñ¥Ù•Q½À°¥¹…Ñ¥Ù•	½ÑÑ½´°¥¹…Ñ¥Ù•M¥‘”°…Ñ¥Ù•Q½À°…Ñ¥Ù•	½ÑÑ½´°…Ñ¥Ù•M¥‘”°±½Ýô¸€¨¼(€€€ÁÉ¥Ù…Ñ”ÍÑ…Ñ¥Œ¥¹ÑmtÁ…±•ÑÑ”¡MÑÉ¥¹œÍÑå±”¤ì(€€€€€€€ÍÝ¥Ñ €¡ÍÑå±”¤ì(€€€€€€€€€€€…Í”€‰™¥É”ˆèÉ•ÑÕÉ¸¹•Ü¥¹ÑmuìÁá°€Ááååä°€ÁáÉÁÁ°€ÁáàÔÜ°€ÁáÍÅ°€ÁáÕÁÄÈ°€ÁáÙÕÅôì(€€€€€€€€€€€…Í”€‰¥”ˆè€É•ÑÕÉ¸¹•Ü¥¹ÑmuìÁá°€ÁáÍÑ°€ÁáÁÉÐÐ°€ÁáÑ	°€ÁáÈÅÅÔ°€ÁáÁÍÕ°€ÁáØÉáôì(€€€€€€€€€€€…Í”€‰½±ˆèÉ•ÑÕÉ¸¹•Ü¥¹ÑmuìÁáÍÀ°€ÁááäÅ°€ÁáÕÍÀÀ°€Áá°€ÁáØàÀ°€ÁááÕÀÀ°€ÁáÙÈÑôì(€€€€€€€€€€€…Í”€‰•‘¥Ñ½É¥…°ˆèÉ•ÑÕÉ¸¹•Ü¥¹ÑmuìÁááà°€Ááåáà°€ÁáÔÔÐÔÉ°€ÁáÑØ°€ÁáÝäÑ°€ÁáÜØÔÐÅ°€ÁàÀÁÝäÑ	ôì(€€€€€€€€€€€…Í”€‰ÁÉ¼ˆèÉ•ÑÕÉ¸¹•Ü¥¹ÑmuìÁáÝ°€ÁáÝÐ°€ÁáÄÔÈÔÍ°€ÁáÙ°€ÁáÔåá°€ÁáÄÜÐàÙ°€ÁáØÔåáôì(€€€€€€€€€€€…Í”€‰±…ÍÌˆèÉ•ÑÕÉ¸¹•Ü¥¹ÑmuìÁáÕ	°€ÁáåÁ°€ÁáÄÀÉÍ°€ÁáÉ°€ÁáÙá°€ÁáÄÌÔÀÜÀ°€ÁáØÙáôì(€€€€€€€€€€€…Í”€‰¹•½¸ˆèÉ•ÑÕÉ¸¹•Ü¥¹ÑmuìÁá°€ÁáÙØ°€ÁáÍÁÍ°€Ááå°€ÁáÍÕ°€ÁáÁÑÔÔ°€ÁáØÀÁÁôì(€€€€€€€€€€€…Í”€‰ÍÁ½ÉÐˆèÉ•ÑÕÉ¸¹•Ü¥¹ÑmuìÁááà°€Áááå	à°€ÁáÁÁÅ°€Áá°€Ááá°€ÁáÁÁÅ°€ÁáØåÑôì(€€€€€€€€€€€‘•™…Õ±Ðè€€€€É•ÑÕÉ¸¹•Ü¥¹ÑmuìÁá°€Ááááà°€ÁáÅÅÅ°€ÁáÄÜØ°€ÁáÐÀÀ°€ÁáÙÐÌÀÀ°€ÁáÙàÍôì(€€€€€€€ô(€€€ô((€€€€¼¨¨(€€€€€¨…ÁÑ¥½¸‰¥Ñµ…À¥¸€ÍèÍÑ…­••áÑÉÕÍ¥½¸°‰±…¬½ÕÑ±¥¹”°É…‘¥•¹Ð™…”°ÍÁ•Õ±…È¡¥¡±¥¡Ð…¹„±½Ü½¸Ñ¡”(€€€€€¨ÍÁ½­•¸Ý½É¸MÑå±•ÌèÁ½À°­…É„°™¥É”°¥”°½±°¹•½¸°‰…È°±¥¹”¸…Ñ¥Ù•€¥ÌÑ¡”ÍÁ½­•¸Ý½É°Á½Á€¥Ì€À¸¸Ä(€€€€€¨‰½Õ¹”ÁÉ½É•ÍÌ¸ÉÑ°±…åÌÑ¡”Ý½É‘Ì½˜•… ±¥¹”É¥¡ÐµÑ¼µ±•™Ð€¡UÉ‘Ô°É…‰¥Œ¸¸¸¤¸(€€€€€¨¼(€€€ÍÑ…Ñ¥Œ	¥Ñµ…À…ÁÑ¥½¸¡¥¹Ð…¹Ù…Í\°1¥ÍÐñMÑÉ¥¹œøÝ½É‘Ì°¥¹Ð…Ñ¥Ù”°™±½…ÐÁ½À°MÑÉ¥¹œÍÑå±”°QåÁ•™…”Ñ˜°‰½½±•…¸ÉÑ°¤ì(€€€€€€€‰½½±•…¸ÍÁ½ÉÐ€ô€‰ÍÁ½ÉÐˆ¹•ÅÕ…±Ì¡ÍÑå±”¤ì(€€€€€€€‰½½±•…¸±•…¸€ô€‰±•…¸ˆ¹•ÅÕ…±Ì¡ÍÑå±”¤ì€€€¼¼4ÈÜèÑ¡”‘•™…Õ±Ð±½½¬èÝ¡¥Ñ”Ý½É‘Ì°Ñ¡”ÍÁ½­•¸Ý½É±¥Ðå•±±½Ü°Ñ¡¥¬½ÕÑ±¥¹”°Íµ…±°Á½À(€€€€€€€¥˜€¡ÍÁ½ÉÐ¤Ñ˜€ô½¹ÑÌ¹•Ð ‰5¥¡É½µ„ˆ¤ì€€€¼¼Ý¥‘”ÍÅÕ…É•Í¤µ™¤±•ÑÑ•ÉÌ°±¥­”Ñ¡”MÁ••àI½¹…±‘¼•‘¥Ð(€€€€€€€™±½…Ð™Ì€ô…¹Ù…Í\€¨€¡ÍÁ½ÉÐ€ü€À¸ÀÔÁ˜€è±•…¸€ü€À¸ÀÜá˜€è€À¸ÀäÉ˜¤ì(€€€€€€€™¥¹…°™±½…ÐÑÉ…¬€ôÍÁ½ÉÐ€ü€À¸ÄÙ˜€è€Á˜°Í­•Ü€ôÍÁ½ÉÐ€ü€´À¸É˜€è€Á˜ì(€€€€€€€¥˜€¡ÍÁ½ÉÐ¤ìÝ½É‘Ì€ô¹•ÜÉÉ…å1¥ÍÐðø¡Ý½É‘Ì¤ì™½È€¡¥¹ÐÜ€ô€ÀìÜ€ðÝ½É‘Ì¹Í¥é” ¤ìÜ¬¬¤Ý½É‘Ì¹Í•Ð¡Ü°Ý½É‘Ì¹•Ð¡Ü¤¹Ñ½UÁÁ•É…Í”¡©…Ù„¹ÕÑ¥°¹1½…±”¹I==P¤¤ìô(€€€€€€€¥¹ÑmtÁ…°€ôÁ…±•ÑÑ”¡ÍÑå±”¤ì(€€€€€€€‰½½±•…¸±…ÍÌ€ô€‰±…ÍÌˆ¹•ÅÕ…±Ì¡ÍÑå±”¤°‰…È€ô€‰‰…Èˆ¹•ÅÕ…±Ì¡ÍÑå±”¤ñð±…ÍÌ°­…É„€ô€‰­…É„ˆ¹•ÅÕ…±Ì¡ÍÑå±”¤ì(€€€€€€€‰½½±•…¸É•Ù•…°€ô€‰É•Ù•…°ˆ¹•ÅÕ…±Ì¡ÍÑå±”¤ñð€‰¡åÁ”ˆ¹•ÅÕ…±Ì¡ÍÑå±”¤°¡åÁ”€ô€‰¡åÁ”ˆ¹•ÅÕ…±Ì¡ÍÑå±”¤ì(€€€€€€€™¥¹…°¥¹Ñmt!eA€ôìÁáÌåàà°€ÁáÈÍ°€ÁáÑÌ°€ÁáÑÍ°€ÁááÍôì(€€€€€€€™¥¹…°¥¹Ñmt5I,€ôìÁáÌåÕ°€ÁáÈÍ°€ÁáÍÌÁôì€€€¼¼É••¸°å•±±½Ü°É•(€€€€€€€‰½½±•…¸µ…É¬€ô€‰µ…É¬ˆ¹•ÅÕ…±Ì¡ÍÑå±”¤ì(€€€€€€€A…¥¹Ð´€ô¹•ÜA…¥¹Ð¡A…¥¹Ð¹9Q%}1%M}1¤ì(€€€€€€€´¹Í•ÑQ•áÑM¥é”¡™Ì¤ì´¹Í•Ñ1•ÑÑ•ÉMÁ…¥¹œ¡ÑÉ…¬¤ì(€€€€€€€™±½…Ðµ…á\€ô…¹Ù…Í\€¨€À¸àá˜ì(€€€€€€€QåÁ•™…•mtÑ™Ì€ô¹•ÜQåÁ•™…•mÝ½É‘Ì¹Í¥é” ¥tì(€€€€€€€™±½…ÑmtÝÜ€ô¹•Ü™±½…ÑmÝ½É‘Ì¹Í¥é” ¥tì(€€€€€€€™½È€¡¥¹Ð¤€ô€Àì¤€ðÝÜ¹±•¹Ñ ì¤¬¬¤ì(€€€€€€€€€€€Ñ™Ím¥t€ô™…•½È¡Ý½É‘Ì¹•Ð¡¤¤°Ñ˜¤ì(€€€€€€€€€€€´¹Í•ÑQåÁ•™…”¡Ñ™Ím¥t¤ì(€€€€€€€€€€€ÝÝm¥t€ô´¹µ•…ÍÕÉ•Q•áÐ¡Ý½É‘Ì¹•Ð¡¤¤¤ì(€€€€€€€ô(€€€€€€€´¹Í•ÑQåÁ•™…”¡Ñ˜¤ì(€€€€€€€™±½…ÐÍÁ…”€ô´¹µ•…ÍÕÉ•Q•áÐ ˆ€ˆ¤ì(€€€€€€€¥˜€¡ÍÁ…”€ð™Ì€¨€À¸É˜¤ÍÁ…”€ô™Ì€¨€À¸Èá˜ì(€€€€€€€1¥ÍÐñ1¥ÍÐñ%¹Ñ••Èøø±¥¹•Ì€ô¹•ÜÉÉ…å1¥ÍÐðø ¤ì(€€€€€€€1¥ÍÐñ%¹Ñ••ÈøÕÈ€ô¹•ÜÉÉ…å1¥ÍÐðø ¤ì(€€€€€€€™±½…ÐÕÉ\€ô€Àì(€€€€€€€™½È€¡¥¹Ð¤€ô€Àì¤€ðÝÜ¹±•¹Ñ ì¤¬¬¤ì(€€€€€€€€€€€™±½…Ð…‘€ô€¡ÕÈ¹¥ÍµÁÑä ¤€ü€À€èÍÁ…”¤€¬ÝÝm¥tì(€€€€€€€€€€€¥˜€ …ÕÈ¹¥ÍµÁÑä ¤€˜˜ÕÉ\€¬…‘€øµ…á\¤ì±¥¹•Ì¹…‘¡ÕÈ¤ìÕÈ€ô¹•ÜÉÉ…å1¥ÍÐðø ¤ìÕÉ\€ô€Àì…‘€ôÝÝm¥tìô(€€€€€€€€€€€ÕÈ¹…‘¡¤¤ìÕÉ\€¬ô…‘ì(€€€€€€€ô(€€€€€€€¥˜€ …ÕÈ¹¥ÍµÁÑä ¤¤±¥¹•Ì¹…‘¡ÕÈ¤ì(€€€€€€€¥¹Ð‘•ÁÑ €ô€Àì€€€¼¼™±…Ð°±•…¸±•ÑÑ•ÉÌè¹¼ÍÑ…­••áÑÉÕÍ¥½¸€¡Ñ¡…ÐÝ…ÌÑ¡”¡•…À±½½¬¤(€€€€€€€™±½…Ð± €ô™Ì€¨€Ä¸Ìá˜°Á…‘d€ô™Ì€¨€À¸ÔÕ˜ì(€€€€€€€¥¹Ð €ô€¡¥¹Ð¤5…Ñ ¹•¥°¡±¥¹•Ì¹Í¥é” ¤€¨± €¬Á…‘d€¨€Ä¸Ù˜€¬‘•ÁÑ ¤ì(€€€€€€€	¥Ñµ…À‰µÀ€ô	¥Ñµ…À¹É•…Ñ•	¥Ñµ…À¡…¹Ù…Í\°5…Ñ ¹µ…à¡ °€à¤°	¥Ñµ…À¹½¹™¥œ¹I	|àààà¤ì(€€€€€€€…¹Ù…ÌŒ€ô¹•Ü…¹Ù…Ì¡‰µÀ¤ì(€€€€€€€A…¥¹Ð‰œ€ô¹•ÜA…¥¹Ð¡A…¥¹Ð¹9Q%}1%M}1¤ì(€€€€€€€‰œ¹Í•Ñ½±½È¡±…ÍÌ€ü€ÁáÈÀäÁÈÀ€è€ÁáÀÀÀÀÀÀ¤ì((€€€€€€€™±½…Ðä€ôÁ…‘d€¬™Ì€¨€À¸äÕ˜ì(€€€€€€€™½È€¡1¥ÍÐñ%¹Ñ••Èø±¥¹”€è±¥¹•Ì¤ì(€€€€€€€€€€€™±½…Ð±Ü€ô€Àì(€€€€€€€€€€€™½È€¡¥¹Ð¬€ô€Àì¬€ð±¥¹”¹Í¥é” ¤ì¬¬¬¤±Ü€¬ôÝÝm±¥¹”¹•Ð¡¬¥t€¬€¡¬€ø€À€üÍÁ…”€è€À¤ì(€€€€€€€€€€€™±½…Ðà€ô€¡…¹Ù…Í\€´±Ü¤€¼€É˜ì(€€€€€€€€€€€¥˜€¡‰…È¤ì(€€€€€€€€€€€€€€€I•ÑÁ…¹•°€ô¹•ÜI•Ñ¡à€´™Ì€¨€À¸Ñ˜°ä€´™Ì€¨€À¸äÕ˜°à€¬±Ü€¬™Ì€¨€À¸Ñ˜°ä€¬™Ì€¨€À¸Ìá˜¤ì(€€€€€€€€€€€€€€€Œ¹‘É…ÝI½Õ¹‘I•Ð¡Á…¹•°°™Ì€¨€À¸Í˜°™Ì€¨€À¸Í˜°‰œ¤ì(€€€€€€€€€€€€€€€¥˜€¡±…ÍÌ¤ìA…¥¹Ð•‘”€ô¹•ÜA…¥¹Ð¡A…¥¹Ð¹9Q%}1%M}1¤ì•‘”¹Í•ÑMÑå±”¡A…¥¹Ð¹MÑå±”¹MQI=-¤ì•‘”¹Í•ÑMÑÉ½­•]¥‘Ñ ¡5…Ñ ¹µ…à Å˜°™Ì€¨€À¸ÀÈÕ˜¤¤ì•‘”¹Í•Ñ½±½È ÁàÔÔåÍ¤ìŒ¹‘É…ÝI½Õ¹‘I•Ð¡Á…¹•°°™Ì€¨€À¸Í˜°™Ì€¨€À¸Í˜°•‘”¤ìô(€€€€€€€€€€€ô(€€€€€€€€€€€1¥ÍÐñ%¹Ñ••Èø½É‘•È€ô¹•ÜÉÉ…å1¥ÍÐðø¡±¥¹”¤ì(€€€€€€€€€€€¥˜€¡ÉÑ°¤©…Ù„¹ÕÑ¥°¹½±±•Ñ¥½¹Ì¹É•Ù•ÉÍ”¡½É‘•È¤ì(€€€€€€€€€€€™½È€¡¥¹Ð¤€è½É‘•È¤ì(€€€€€€€€€€€€€€€‰½½±•…¸…Ð€ô¤€ôô…Ñ¥Ù”ì(€€€€€€€€€€€€€€€‰½½±•…¸±¥Ð€ô­…É„€ü¤€ðô…Ñ¥Ù”€è…Ðì(€€€€€€€€€€€€€€€™±½…Ð‰½Õ¹”€ô…Ð€ü€¡™±½…Ð¤5…Ñ ¹Í¥¸¡5…Ñ ¹µ¥¸ Å˜°Á½À¤€¨5…Ñ ¹A$¤€è€Á˜ì(€€€€€€€€€€€€€€€™±½…ÐÍŒ€ô€Å˜€¬€¡ÍÁ½ÉÐ€ü€À¸ÄÑ˜€è±•…¸€ü€À¸ÀÝ˜€è¡åÁ”€ü€À¸ÐÉ˜€èµ…É¬€ü€À¸Äá˜€è€À¸ÌÑ˜¤€¨‰½Õ¹”ì(€€€€€€€€€€€€€€€™±½…ÐÑ¥±Ð€ô…Ð€˜˜€…±•…¸€ü€¡ÉÑ°€ü€Ä€è€´Ä¤€¨€Ñ˜€¨‰½Õ¹”€è€Á˜ì(€€€€€€€€€€€€€€€¥¹ÐÑ½À€ô±¥Ð€üÁ…±lÍt€èÁ…±lÁt°‰½Ð€ô±¥Ð€üÁ…±lÑt€èÁ…±lÅt°Í¥‘”€ô±¥Ð€üÁ…±lÕt€èÁ…±lÉtì(€€€€€€€€€€€€€€€¥˜€¡‰…È€˜˜€…±…ÍÌ¤ìÑ½À€ô±¥Ð€ü€ÁáÔÑ€è€Ááì‰½Ð€ôÑ½Àìô(€€€€€€€€€€€€€€€¥˜€¡±•…¸¤ìÑ½À€ô±¥Ð€ü€ÁáÄÑ€è€Ááì‰½Ð€ôÑ½ÀìÍ¥‘”€ô€ÁáÄÀÄÀÄÀìô(€€€€€€€€€€€€€€€¥˜€¡É•Ù•…°€˜˜¤€ø…Ñ¥Ù”¤ìà€¬ôÝÝm¥t€¬ÍÁ…”ì½¹Ñ¥¹Õ”ìô(€€€€€€€€€€€€€€€¥˜€¡¡åÁ”€˜˜…Ð¤ì¥¹Ð¡Œ€ô!eAm¤€”!eA¹±•¹Ñ¡tìÑ½À€ô¡Œì‰½Ð€ô¡ŒìÍ¥‘”€ô€ÁáÄÀÄÀÄÀìô(€€€€€€€€€€€€€€€¥˜€¡µ…É¬€˜˜…Ð¤ì¥¹ÐµŒ€ô5I-m¤€”5I,¹±•¹Ñ¡tìÑ½À€ôµŒì‰½Ð€ôµŒìÍ¥‘”€ô€ÁáÄÀÄÀÄÀìô(€€€€€€€€€€€€€€€™±½…ÐÉ¥Í”€ô€¡É•Ù•…°€˜˜…Ð¤€ü€ Å˜€´5…Ñ ¹µ¥¸ Å˜°Á½À€¨€Ä¸Ñ˜¤¤€¨™Ì€¨€À¸ÌÉ˜€è€Á˜ì(€€€€€€€€€€€€€€€Œ¹Í…Ù” ¤ì(€€€€€€€€€€€€€€€Œ¹ÑÉ…¹Í±…Ñ” À°É¥Í”¤ì(€€€€€€€€€€€€€€€Œ¹É½Ñ…Ñ”¡Ñ¥±Ð°à€¬ÝÝm¥t€¼€É˜°ä€´™Ì€¨€À¸Í˜¤ì(€€€€€€€€€€€€€€€Œ¹Í…±”¡ÍŒ°ÍŒ°à€¬ÝÝm¥t€¼€É˜°ä€´™Ì€¨€À¸Í˜¤ì(€€€€€€€€€€€€€€€¥¹Ð±½Ý½°€ô€¡±•…¸ñð€‰•‘¥Ñ½É¥…°ˆ¹•ÅÕ…±Ì¡ÍÑå±”¤¤€ü€À€è…Ð€ü€¡¡åÁ”€ü€¡!eAm¤€”!eA¹±•¹Ñ¡t€˜€ÁàÀÁ¤ð€ÁáÀÀÀÀÀÀ€èµ…É¬€ü€¡5I-m¤€”5I,¹±•¹Ñ¡t€˜€ÁàÀÁ¤ð€ÁáÀÀÀÀÀÀ€è€¡Á…±lÙt€˜€ÁàÀÁ¤ð€ÁáÀÀÀÀÀÀ¤€è€Àì(€€€€€€€€€€€€€€€±•…¹Q•áÐ¡Œ°Ý½É‘Ì¹•Ð¡¤¤°à°ä°Ñ™Ím¥wm4ÞÚ$z{-®éÜj×ÂfÆöB&÷Dg&2’°¢&—FÖ&×Ò&—FÖæ7&VFT&—FÖ…rÂ‚Â&—FÖä6öæf–rä$t%óƒƒƒ‚“°¢6çf22ÒæWr6çf2†&×“°¢–çBF÷ÒÖF‚ç&÷VæB„‚¢F÷g&2’Â&÷BÒÖF‚ç&÷VæB„‚¢&÷Dg&2“°¢–çBÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢ç6WD6öÆ÷"„6öÆ÷"ä$Ä4²“°¢2æG&u&V7BƒÂÂrÂF÷Â“°¢2æG&u&V7BƒÂ‚Ò&÷BÂrÂ‚Â“°¢vÆ÷tÆ–æR†2ÂrÂF÷Âr¢ã&bÂ„#dddddb“°¢vÆ÷tÆ–æR†2ÂrÂ‚Ò&÷BÂr¢ã&bÂ„#dddddb“°¢fÆöB6÷&RÒÖF‚æÖ‚ƒ6bÂr¢ãfb“°¢–çBÆ–æRÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢Æ–æRç6WD6öÆ÷"„6öÆ÷"åt„•DR“°¢2æG&u&V7BƒÂF÷Ò6÷&Rò&bÂrÂF÷²6÷&Rò&bÂÆ–æR“°¢2æG&u&V7BƒÂ‚Ò&÷BÒ6÷&Rò&bÂrÂ‚Ò&÷B²6÷&Rò&bÂÆ–æR“°¢&WGW&â&×°¢Ð ¢ò¢¢v–FR6ögB&ÆööÒ&÷VæB&÷F‚F—f–FW'2‡G&ç7&VçBVÇ6Wv†W&R’â—G2÷6—G’—2VÇ6VBöâÆ÷VBÖöÖVçG2â¢ð¢7FF–2&—FÖ&V7DvÆ÷r†–çBrÂ–çB‚ÂfÆöBF÷g&2ÂfÆöB&÷Dg&2’°¢&—FÖ&×Ò&—FÖæ7&VFT&—FÖ…rÂ‚Â&—FÖä6öæf–rä$t%óƒƒƒ‚“°¢6çf22ÒæWr6çf2†&×“°¢vÆ÷tÆ–æR†2ÂrÂÖF‚ç&÷VæB„‚¢F÷g&2’Âr¢ãfbÂƒ“$dS”db“°¢vÆ÷tÆ–æR†2ÂrÂ‚ÒÖF‚ç&÷VæB„‚¢&÷Dg&2’Âr¢ãfbÂƒ“$dS”db“°¢&WGW&â&×°¢Ð ¢&—fFR7FF–2fö–BvÆ÷tÆ–æR„6çf22Â–çBrÂfÆöB’ÂfÆöB†ÆbÂ–çBV²’°¢–çBÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢ç6WE6†FW"†æWrÆ–æV$w&F–VçBƒÂ’Ò†ÆbÂÂ’²†ÆbÀ¢æWr–çEµ×·V²bƒdddddbÂV²ÂV²bƒdddddgÒÂæWrfÆöEµ×³bÂãVbÂgÒÂ6†FW"åF–ÆTÖöFRä4ÄÕ’“°¢2æG&u&V7BƒÂ’Ò†ÆbÂrÂ’²†ÆbÂ“°¢Ð ¢ò¢¢7Æ—G2†öö²–çFòBÖ÷7BGvò&Ææ6VBÆ–æW2â¢ð¢&—fFR7FF–27G&–æuµÒ7Æ—EGvò…7G&–ær2’°¢7G&–æuµÒrÒ2ç7Æ—B‚%ÅÇ2²"“°¢–b‡ræÆVæwF‚Â2ÇÂ2æÆVæwF‚‚’ÃÒb’&WGW&âæWr7G&–æuµ×·7Ó°¢–çB&W7BÒÂ&W7DF–fbÒ–çFVvW"äÔ…õdÅTS°¢f÷"†–çB’Ò²’ÂræÆVæwFƒ²’²²’°¢–çBÒÂ"Ò°¢f÷"†–çB²Ò²²Â“²²²²’³Òu¶µÒæÆVæwF‚‚’²°¢f÷"†–çB²Ò“²²ÂræÆVæwFƒ²²²²’"³Òu¶µÒæÆVæwF‚‚’²°¢–b„ÖF‚æ'2†Ò"’Â&W7DF–fb’²&W7DF–fbÒÖF‚æ'2†Ò"“²&W7BÒ“²Ð¢Ð¢7G&–æt'V–ÆFW"ÃÒæWr7G&–æt'V–ÆFW"‚’ÂÃ"ÒæWr7G&–æt'V–ÆFW"‚“°¢f÷"†–çB’Ò²’ÂræÆVæwFƒ²’²²’°¢7G&–æt'V–ÆFW"BÒ’Â&W7BòÃ¢Ã#°¢–b‡BæÆVæwF‚‚’â’BæVæB‚rr“°¢BæVæB‡u¶•Ò“°¢Ð¢&WGW&âæWr7G&–æuµ×¶ÃçFõ7G&–ær‚’ÂÃ"çFõ7G&–ær‚—Ó°¢Ð ¢ò¢¢&öÆB4B†öö²F—FÆR‡&VBf—'7BÆ–æRÂ–VÆÆ÷r6V6öæB’6†÷vâ–âF†RF÷&"âÖ„‚¶VW2—B–ç6–FRF†R&"â¢ð¢7FF–2&—FÖ†ööµF—FÆR†–çBrÂfÆöBÖ„‚Â7G&–ærFW‡B’°¢7G&–ærWÒFW‡BçG&–Ò‚’çFõWW$66R†¦fçWF–ÂäÆö6ÆRå$ôõB“°¢–b‡WæÆVæwF‚‚’âCB’WÒWç7V'7G&–ærƒÂC2’çG&–Ò‚’²%ÇS##b#°¢7G&–æuµÒÆ–æW2Ò7Æ—EGvò‡W“°¢G—Vf6RFbÒf6R‚%÷–ç2"“°¢fÆöBg2Òr¢ãs&bÂÖ…rÒr¢ã“&c°¢–çBÒÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢Òç6WEG—Vf6R‡Fb“²Òç6WDÆWGFW%76–ær„äTôåõE$4²“°¢f÷"†–çB’Ò²’Â3²’²²’°¢Òç6WEFW‡E6—¦R†g2“°¢fÆöBvÖ‚Ò°¢f÷"…7G&–ærÂ¢Æ–æW2’vÖ‚ÒÖF‚æÖ‚‡vÖ‚ÂÒæÖV7W&UFW‡B†Â’“°¢–b‡vÖ‚ÃÒÖ…rbbÆ–æW2æÆVæwF‚¢g2¢ã#†b²g2¢ã6bÃÒÖ„‚’'&V³°¢g2£Òã“6c°¢Ð¢–çBFWF‚ÒÖF‚æÖ‚ƒ2ÂÖF‚ç&÷VæB†g2¢ãb’“°¢–çB‚Ò†–çB’ÖF‚æ6V–Â†Æ–æW2æÆVæwF‚¢g2¢ã#†b²g2¢ã6b²FWF‚“°¢&—FÖ&×Ò&—FÖæ7&VFT&—FÖ…rÂÖF‚æÖ‚†‚Â‚’Â&—FÖä6öæf–rä$t%óƒƒƒ‚“°¢6çf22ÒæWr6çf2†&×“°¢Òç6WEFW‡E6—¦R†g2“°¢f÷"†–çB’Ò²’ÂÆ–æW2æÆVæwFƒ²’²²’°¢fÆöB‚Ò…rÒÒæÖV7W&UFW‡B†Æ–æW5¶•Ò’’ò&bÂ’Òg2¢ãVb²’¢g2¢ã#†c°¢–b†’ÓÒbbÆ–æW2æÆVæwF‚â’vÆ÷uFW‡B†2ÂÆ–æW5¶•ÒÂ‚Â’ÂFbÂg2Â„ddddc3T2Â„ddddScÂ„dcTD“°¢VÇ6RvÆ÷uFW‡B†2ÂÆ–æW5¶•ÒÂ‚Â’ÂFbÂg2Â„dcT4dcdRÂ„dcDdc$RÂ„dcCCS2“°¢Ð¢&WGW&â&×°¢Ð  ¢ò¢¢7Æ—G2F—FÆR–çFò·–VÆÆ÷rÆ–æRÂw&VVâG—VBÆ–æWÒâöæRÖÆ–æRF—FÆR—2ÆÂw&VVââ¢ð¢7FF–27G&–æuµÒæVöäÆ–æW2…7G&–ærFW‡B’°¢7G&–ærWÒFW‡BÓÒçVÆÂò""¢FW‡BçG&–Ò‚’çFõWW$66R†¦fçWF–ÂäÆö6ÆRå$ôõB“°¢–b‡WæÆVæwF‚‚’âC’WÒWç7V'7G&–ærƒÂ3’’çG&–Ò‚’²%ÇS##b#°¢–b‡Wæ—4V×G’‚’’&WGW&âæWr7G&–æuµ×²""Â"'Ó°¢7G&–æuµÒÒ7Æ—EGvò‡W“°¢&WGW&âæÆVæwF‚ÓÒòæWr7G&–æuµ×²""Â³×Ò¢æWr7G&–æuµ×·³ÒÂ³×Ó°¢Ð ¢ò¢¢æVöâ7F÷'’F—FÆS¢–VÆÆ÷rvÆ÷v–ærf—'7BÆ–æRÂw&VVâvÆ÷v–ær6V6öæBÆ–æRâãòã"ÒÆWGFW'26†÷vâ6òf"‡G—Ww&—FW"’â¢ð¢&—fFR7FF–2f–æÂfÆöBäTôåõE$4²ÒãFc° ¢7FF–2&—FÖæVöåF—FÆR†–çBrÂ7G&–ærÃÂ7G&–ærÃ"Â–çBãÂ–çBã"’°¢G—Vf6RFbÒf6R‚%÷–ç2"“°¢fÆöBg2Òr¢ãsVbÂÖ…rÒr¢ã“c°¢–çBÒÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢Òç6WEG—Vf6R‡Fb“²Òç6WDÆWGFW%76–ær„äTôåõE$4²“°¢f÷"†–çB’Ò²’Â3²’²²’°¢Òç6WEFW‡E6—¦R†g2“°¢–b„ÖF‚æÖ‚†ÒæÖV7W&UFW‡B†Ã’ÂÒæÖV7W&UFW‡B†Ã"’’ÃÒÖ…r’'&V³°¢g2£Òã“6c°¢Ð¢–çBBÒÖF‚ç&÷VæB†g2¢ãvb“°¢–çB‚Ò†–çB’ÖF‚æ6V–Â†g2¢"ãfb’²B¢#°¢&—FÖ&×Ò&—FÖæ7&VFT&—FÖ…rÂ‚Â&—FÖä6öæf–rä$t%óƒƒƒ‚“°¢6çf22ÒæWr6çf2†&×“°¢Òç6WEFW‡E6—¦R†g2“°¢fÆöB“ÒB²g2Â“"Ò“²g2¢ã#&c°¢7G&–ær3ÒÃç7V'7G&–ærƒÂÖF‚æÖ‚ƒÂÖF‚æÖ–â†ãÂÃæÆVæwF‚‚’’’“°¢7G&–ær3"ÒÃ"ç7V'7G&–ærƒÂÖF‚æÖ‚ƒÂÖF‚æÖ–â†ã"ÂÃ"æÆVæwF‚‚’’’“°¢–b‚3æ—4V×G’‚’’vÆ÷uFW‡B†2Â3Â…rÒÒæÖV7W&UFW‡B†Ã’’ò&bÂ“ÂFbÂg2Â„ddddc3T2Â„ddddScÂ„dcTD“°¢–b‚3"æ—4V×G’‚’’vÆ÷uFW‡B†2Â3"Â…rÒÒæÖV7W&UFW‡B†Ã"’’ò&bÂÃæ—4V×G’‚’ò“¢“"ÂFbÂg2Â„dcT4dcdRÂ„dcDdc$RÂ„dcCCS2“°¢&WGW&â&×°¢Ð ¢&—fFR7FF–2fö–BvÆ÷uFW‡B„6çf22Â7G&–ær2ÂfÆöB‚ÂfÆöB’ÂG—Vf6RFbÂfÆöBg2Â–çBf6RÂ–çBvÆ÷rÂ–çBVFvR’°¢–çBrÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢rç6WEG—Vf6R‡Fb“²rç6WEFW‡E6—¦R†g2“²rç6WDÆWGFW%76–ær„äTôåõE$4²“²rç6WD6öÆ÷"†vÆ÷r“°¢rç6WE6†F÷tÆ–W"†g2¢ãc&bÂÂÂvÆ÷r“°¢2æG&uFW‡B‡2Â‚Â’Âr“°¢2æG&uFW‡B‡2Â‚Â’Âr“°¢2æG&uFW‡B‡2Â‚Â’Âr“°¢–çBòÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢òç6WEG—Vf6R‡Fb“²òç6WEFW‡E6—¦R†g2“²òç6WDÆWGFW%76–ær„äTôåõE$4²“²òç6WE7G–ÆR…–çBå7G–ÆRå5E$ô´R“°¢òç6WE7G&ö¶T¦ö–â…–çBä¦ö–âå$õTäB“²òç6WE7G&ö¶Uv–GF‚†g2¢ãvb“²òç6WD6öÆ÷"†VFvR“°¢2æG&uFW‡B‡2Â‚Â’Âò“°¢–çBbÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢bç6WEG—Vf6R‡Fb“²bç6WEFW‡E6—¦R†g2“²bç6WDÆWGFW%76–ær„äTôåõE$4²“²bç6WD6öÆ÷"†f6R“°¢2æG&uFW‡B‡2Â‚Â’Âb“°¢Ð ¢ò¢¢4BÖÆöö²FW‡C¢7F6¶VBW‡G'W6–öâÂ&Æ6²÷WFÆ–æRÂw&F–VçBf6RæBF÷7V7VÆ"†–v†Æ–v‡Bâ¢ð¢7FF–2fö–BFW‡C6B„6çf22Â7G&–ær2ÂfÆöB‚ÂfÆöB’ÂG—Vf6RFbÂfÆöBg2Â–çBF÷Â–çB&÷GFöÒÂ–çB6–FRÂ–çBFWF‚’°¢FW‡C6B†2Â2Â‚Â’ÂFbÂg2ÂF÷Â&÷GFöÒÂ6–FRÂFWF‚ÂÂfÇ6RÂãvb“°¢Ð ¢ò¢¢gVÆÂ4BFW‡BâvÆ÷rÒ$t"vÆ÷r6öÆ÷W"ƒæöæR“²f¶T&öÆBF†–6¶Vç2fÆÆ&6²67&—BföçG3²÷WFÆ–æRÒ7G&ö¶Rv–GF‚–âVÒâ¢ð¢7FF–2fö–BFW‡C6B„6çf22Â7G&–ær2ÂfÆöB‚ÂfÆöB’ÂG—Vf6RFbÂfÆöBg2Â–çBF÷Â–çB&÷GFöÒÂ–çB6–FRÀ¢–çBFWF‚Â–çBvÆ÷rÂ&ööÆVâf¶T&öÆBÂfÆöB÷WFÆ–æR’°¢–b†vÆ÷rÒ’°¢–çBwÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢wç6WEG—Vf6R‡Fb“²wç6WEFW‡E6—¦R†g2“²wç6WDf¶T&öÆEFW‡B†f¶T&öÆB“°¢wç6WD6öÆ÷"†vÆ÷r“°¢wç6WE6†F÷tÆ–W"†g2¢ã3†bÂÂÂvÆ÷r“°¢2æG&uFW‡B‡2Â‚Â’Âw“°¢Ð¢–çBÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢ç6WEG—Vf6R‡Fb“²ç6WEFW‡E6—¦R†g2“²ç6WDf¶T&öÆEFW‡B†f¶T&öÆB“°¢ç6WE7G–ÆR…–çBå7G–ÆRäd”ÄÅôäEõ5E$ô´R“²ç6WE7G&ö¶T¦ö–â…–çBä¦ö–âå$õTäB“°¢ç6WE7G&ö¶Uv–GF‚†g2¢ãfb“²ç6WD6öÆ÷"‡6–FR“°¢f÷"†–çB’ÒFWFƒ²’ãÒ²’ÒÒ’2æG&uFW‡B‡2Â‚²’¢ãSVbÂ’²’¢ã“VbÂ“°¢–b†÷WFÆ–æRâb’°¢–çBòÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢òç6WEG—Vf6R‡Fb“²òç6WEFW‡E6—¦R†g2“²òç6WDf¶T&öÆEFW‡B†f¶T&öÆB“°¢òç6WE7G–ÆR…–çBå7G–ÆRå5E$ô´R“²òç6WE7G&ö¶T¦ö–â…–çBä¦ö–âå$õTäB“°¢òç6WE7G&ö¶Uv–GF‚†g2¢÷WFÆ–æR“²òç6WD6öÆ÷"„6öÆ÷"ä$Ä4²“°¢2æG&uFW‡B‡2Â‚Â’Âò“°¢Ð¢–çBbÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢bç6WEG—Vf6R‡Fb“²bç6WEFW‡E6—¦R†g2“²bç6WDf¶T&öÆEFW‡B†f¶T&öÆB“°¢bç6WE6†FW"†æWrÆ–æV$w&F–VçBƒÂ’Òg2¢ãƒVbÂÂ’²g2¢ãbÂF÷Â&÷GFöÒÂ6†FW"åF–ÆTÖöFRä4ÄÕ’“°¢2æG&uFW‡B‡2Â‚Â’Âb“°¢–çBrÒæWr–çB…–çBäåD•ôÄ”5ôdÄr“°¢rç6WEG—Vf6R‡Fb“²rç6WEFW‡E6—¦R†g2“²rç6WDf¶T&öÆEFW‡B†f¶T&öÆB“°¢rç6WE6†FW"†æWrÆ–æV$w&F–VçBƒÂ’Òg2¢ãƒVbÂÂ’Òg2¢ã3†bÂƒƒdddddbÂƒdddddbÂ6†FW"åF–ÆTÖöFRä4ÄÕ’“°¢2æG&uFW‡B‡2Â‚Â’Âr“°¢Ð§Ð
+package com.roohu.clipforge;
+
+import android.graphics.Bitmap;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.LinearGradient;
+import android.graphics.Paint;
+import android.graphics.Path;
+import android.graphics.RadialGradient;
+import android.graphics.RectF;
+import android.graphics.Shader;
+import android.graphics.Typeface;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/** Draws every overlay (animated captions, the 3D name credit, progress bar, vignette) as bitmaps. */
+final class Painter {
+    static final int ACCENT = 0xFFFFC83D;
+    static final int ORANGE = 0xFFFF8F3F;
+    static final int PINK = 0xFFFF3D81;
+    static final int CYAN = 0xFF5FE3F0;
+
+    /** One spoken word with its start/end time in seconds (source video time). */
+    static final class W {
+        final String w; final double a, b;
+        W(String w, double a, double b) { this.w = w; this.a = a; this.b = b; }
+    }
+
+    /** A caption page: a few words shown together. */
+    static final class Cue {
+        final double a, b; final List<W> words = new ArrayList<>();
+        Cue(double a, double b) { this.a = a; this.b = b; }
+    }
+
+    static Typeface face(String font) { return Fonts.get(font); }
+
+    /** True when every letter is Latin/digits/punctuation, so the display font can draw it. */
+    static boolean latin(String w) {
+        for (int i = 0; i < w.length(); i++) if (w.charAt(i) > 0x024F && !Character.isWhitespace(w.charAt(i))) {
+            char ch = w.charAt(i);
+            if (ch < 0x2000 || ch > 0x2BFF) return false;
+        }
+        return true;
+    }
+
+    static boolean arabicScript(String w) {
+        for (int i = 0; i < w.length(); i++) if (w.charAt(i) >= 0x0600 && w.charAt(i) <= 0x06FF) return true;
+        return false;
+    }
+
+    /** Typeface for one word: the display font for Latin, a bold script font for everything else. */
+    static Typeface faceFor(String word, Typeface base) {
+        if (latin(word)) return base;
+        if (arabicScript(word) && Fonts.has("Tajawal")) return Fonts.get("Tajawal");
+        return Typeface.create("sans-serif", Typeface.BOLD);
+    }
+
+    static Bitmap transparent() {
+        return Bitmap.createBitmap(2, 2, Bitmap.Config.ARGB_8888);
+    }
+
+    /** Palette of a caption style: {inactiveTop, inactiveBottom, inactiveSide, activeTop, activeBottom, activeSide, glow}. */
+    private static int[] palette(String style) {
+        switch (style) {
+            case "fire": return new int[]{0xFFFFFFFF, 0xFFE9E9E9, 0xFF2A0A0A, 0xFFFFC857, 0xFFFF3B1F, 0xFF5B0A12, 0xE6FF5A1F};
+            case "ice":  return new int[]{0xFFFFFFFF, 0xFFE3F4FF, 0xFF0B2A44, 0xFFE4FBFF, 0xFF21C1F5, 0xFF0B3A5B, 0xE62EC8FF};
+            case "gold": return new int[]{0xFFFFF3B0, 0xFFE8A91C, 0xFF5C3A00, 0xFFFFFFFF, 0xFFFFE680, 0xFF8A5A00, 0xE6FFD24D};
+            case "editorial": return new int[]{0xFFFFF8E8, 0xFFE9D8B8, 0xFF55452C, 0xFFFFF4D6, 0xFFD7A94B, 0xFF76541C, 0x00D7A94B};
+            case "pro": return new int[]{0xFFF7FAFF, 0xFFDCE7F4, 0xFF15253C, 0xFFEAF6FF, 0xFF59B8FF, 0xFF17486C, 0xE659B8FF};
+            case "glass": return new int[]{0xFFF5FBFF, 0xFFD9F0FF, 0xFF102A3C, 0xFFF2FAFF, 0xFF6CD8FF, 0xFF135070, 0xE66CD8FF};
+            case "neon": return new int[]{0xFFFFFFFF, 0xFFFFD6F6, 0xFF3A0A3F, 0xFFE9FFFF, 0xFF3DF5FF, 0xFF0A4A55, 0xE600F0FF};
+            case "sport": return new int[]{0xFFE8EDF8, 0xFF8E9BB8, 0xFF0A0F1A, 0xFFFFFFFF, 0xFFDDE8FF, 0xFF0A0F1A, 0xE69CC4FF};
+            default:     return new int[]{0xFFFFFFFF, 0xFFE8E8E8, 0xFF1B1B1B, 0xFFFFF176, 0xFFFFB400, 0xFF6F4300, 0xE6FFC83D};
+        }
+    }
+
+    /**
+     * Caption bitmap in 3D: stacked extrusion, black outline, gradient face, specular highlight and a glow on the
+     * spoken word. Styles: pop, kara, fire, ice, gold, neon, bar, line. `active` is the spoken word, `pop` is 0..1
+     * bounce progress. rtl lays the words of each line right-to-left (Urdu, Arabic...).
+     */
+    static Bitmap caption(int canvasW, List<String> words, int active, float pop, String style, Typeface tf, boolean rtl) {
+        boolean sport = "sport".equals(style);
+        boolean clean = "clean".equals(style);   // M27: the default look: white words, the spoken word lit yellow, thick outline, small pop
+        if (sport) tf = Fonts.get("Michroma");   // wide squared sci-fi letters, like the Speed x Ronaldo edit
+        float fs = canvasW * (sport ? 0.050f : clean ? 0.078f : 0.092f);
+        final float track = sport ? 0.16f : 0f, skew = sport ? -0.2f : 0f;
+        if (sport) { words = new ArrayList<>(words); for (int w = 0; w < words.size(); w++) words.set(w, words.get(w).toUpperCase(java.util.Locale.ROOT)); }
+        int[] pal = palette(style);
+        boolean glass = "glass".equals(style), bar = "bar".equals(style) || glass, kara = "kara".equals(style);
+        boolean reveal = "reveal".equals(style) || "hype".equals(style), hype = "hype".equals(style);
+        final int[] HYPE = {0xFF39FF88, 0xFFFFE23D, 0xFFFF4FA3, 0xFF4FE3FF, 0xFFFF8F3F};
+        final int[] MARK = {0xFF39FF5A, 0xFFFFE23D, 0xFFFF3B30};   // green, yellow, red
+        boolean mark = "mark".equals(style);
+        Paint m = new Paint(Paint.ANTI_ALIAS_FLAG);
+        m.setTextSize(fs); m.setLetterSpacing(track);
+        float maxW = canvasW * 0.88f;
+        Typeface[] tfs = new Typeface[words.size()];
+        float[] ww = new float[words.size()];
+        for (int i = 0; i < ww.length; i++) {
+            tfs[i] = faceFor(words.get(i), tf);
+            m.setTypeface(tfs[i]);
+            ww[i] = m.measureText(words.get(i));
+        }
+        m.setTypeface(tf);
+        float space = m.measureText(" ");
+        if (space < fs * 0.2f) space = fs * 0.28f;
+        List<List<Integer>> lines = new ArrayList<>();
+        List<Integer> cur = new ArrayList<>();
+        float curW = 0;
+        for (int i = 0; i < ww.length; i++) {
+            float add = (cur.isEmpty() ? 0 : space) + ww[i];
+            if (!cur.isEmpty() && curW + add > maxW) { lines.add(cur); cur = new ArrayList<>(); curW = 0; add = ww[i]; }
+            cur.add(i); curW += add;
+        }
+        if (!cur.isEmpty()) lines.add(cur);
+        int depth = 0;   // flat, clean letters: no stacked extrusion (that was the cheap look)
+        float lh = fs * 1.38f, padY = fs * 0.55f;
+        int h = (int) Math.ceil(lines.size() * lh + padY * 1.6f + depth);
+        Bitmap bmp = Bitmap.createBitmap(canvasW, Math.max(h, 8), Bitmap.Config.ARGB_8888);
+        Canvas c = new Canvas(bmp);
+        Paint bg = new Paint(Paint.ANTI_ALIAS_FLAG);
+        bg.setColor(glass ? 0xC2090F20 : 0xCC000000);
+
+        float y = padY + fs * 0.95f;
+        for (List<Integer> line : lines) {
+            float lw = 0;
+            for (int k = 0; k < line.size(); k++) lw += ww[line.get(k)] + (k > 0 ? space : 0);
+            float x = (canvasW - lw) / 2f;
+            if (bar) {
+                RectF panel = new RectF(x - fs * 0.4f, y - fs * 0.95f, x + lw + fs * 0.4f, y + fs * 0.38f);
+                c.drawRoundRect(panel, fs * 0.3f, fs * 0.3f, bg);
+                if (glass) { Paint edge = new Paint(Paint.ANTI_ALIAS_FLAG); edge.setStyle(Paint.Style.STROKE); edge.setStrokeWidth(Math.max(1f, fs * 0.025f)); edge.setColor(0x559DE3FF); c.drawRoundRect(panel, fs * 0.3f, fs * 0.3f, edge); }
+            }
+            List<Integer> order = new ArrayList<>(line);
+            if (rtl) java.util.Collections.reverse(order);
+            for (int i : order) {
+                boolean act = i == active;
+                boolean lit = kara ? i <= active : act;
+                float bounce = act ? (float) Math.sin(Math.min(1f, pop) * Math.PI) : 0f;
+                float sc = 1f + (sport ? 0.14f : clean ? 0.07f : hype ? 0.42f : mark ? 0.18f : 0.34f) * bounce;
+                float tilt = act && !clean ? (rtl ? 1 : -1) * 4f * bounce : 0f;
+                int top = lit ? pal[3] : pal[0], bot = lit ? pal[4] : pal[1], side = lit ? pal[5] : pal[2];
+                if (bar && !glass) { top = lit ? 0xFFFFD54A : 0xFFFFFFFF; bot = top; }
+                if (clean) { top = lit ? 0xFFFFE14D : 0xFFFFFFFF; bot = top; side = 0xFF101010; }
+                if (reveal && i > active) { x += ww[i] + space; continue; }
+                if (hype && act) { int hc = HYPE[i % HYPE.length]; top = hc; bot = hc; side = 0xFF101010; }
+                if (mark && act) { int mc = MARK[i % MARK.length]; top = mc; bot = mc; side = 0xFF101010; }
+                float rise = (reveal && act) ? (1f - Math.min(1f, pop * 1.4f)) * fs * 0.32f : 0f;
+                c.save();
+                c.translate(0, rise);
+                c.rotate(tilt, x + ww[i] / 2f, y - fs * 0.3f);
+                c.scale(sc, sc, x + ww[i] / 2f, y - fs * 0.3f);
+                int glowCol = (clean || "editorial".equals(style)) ? 0 : act ? (hype ? (HYPE[i % HYPE.length] & 0x00FFFFFF) | 0xCC000000 : mark ? (MARK[i % MARK.length] & 0x00FFFFFF) | 0xCC000000 : (pal[6] & 0x00FFFFFF) | 0xCC000000) : 0;
+                cleanText(c, words.get(i), x, y, tfs[i], fs, top, bot, glowCol, !latin(words.get(i)) && !sport, bar ? 0f : sport ? 0.05f : clean ? 0.17f : 0.10f, track, skew);
+                c.restore();
+                x += ww[i] + space;
+            }
+            y += lh;
+        }
+        return bmp;
+    }
+
+    /** Clean modern edit text: soft drop shadow, optional neon glow, thin dark edge, smooth two-tone face. No extrusion. */
+    static void cleanText(Canvas c, String s, float x, float y, Typeface tf, float fs, int top, int bottom, int glow,
+                          boolean fakeBold, float outline) {
+        cleanText(c, s, x, y, tf, fs, top, bottom, glow, fakeBold, outline, 0f, 0f);
+    }
+
+    static void cleanText(Canvas c, String s, float x, float y, Typeface tf, float fs, int top, int bottom, int glow,
+                          boolean fakeBold, float outline, float track, float skew) {
+        Paint sh = new Paint(Paint.ANTI_ALIAS_FLAG);
+        sh.setTypeface(tf); sh.setTextSize(fs); sh.setLetterSpacing(track); sh.setTextSkewX(skew); sh.setFakeBoldText(fakeBold);
+        sh.setColor(0x00000000); sh.setShadowLayer(fs * 0.12f, 0, fs * 0.05f, 0xB0000000);
+        c.drawText(s, x, y, sh);
+        if (glow != 0) {
+            Paint gp = new Paint(Paint.ANTI_ALIAS_FLAG);
+            gp.setTypeface(tf); gp.setTextSize(fs); gp.setLetterSpacing(track); gp.setTextSkewX(skew); gp.setFakeBoldText(fakeBold);
+            gp.setColor(glow); gp.setShadowLayer(fs * 0.42f, 0, 0, glow);
+            c.drawText(s, x, y, gp);
+            c.drawText(s, x, y, gp);
+        }
+        if (outline > 0f) {
+            Paint o = new Paint(Paint.ANTI_ALIAS_FLAG);
+            o.setTypeface(tf); o.setTextSize(fs); o.setLetterSpacing(track); o.setTextSkewX(skew); o.setFakeBoldText(fakeBold);
+            o.setStyle(Paint.Style.STROKE); o.setStrokeJoin(Paint.Join.ROUND);
+            o.setStrokeWidth(fs * outline); o.setColor(0xE6000000);
+            c.drawText(s, x, y, o);
+        }
+        Paint f = new Paint(Paint.ANTI_ALIAS_FLAG);
+        f.setTypeface(tf); f.setTextSize(fs); f.setLetterSpacing(track); f.setTextSkewX(skew); f.setFakeBoldText(fakeBold);
+        f.setShader(new LinearGradient(0, y - fs * 0.80f, 0, y + fs * 0.05f, top, bottom, Shader.TileMode.CLAMP));
+        c.drawText(s, x, y, f);
+    }
+
+    /** Colour phases of the editor credit, cycling like the reference edit: steel-blue, yellow, white. {top, bottom, glow}. */
+    static final int CREDIT_PHASES = 3;
+    private static int[] creditPalette(int phase) {
+        switch (((phase % CREDIT_PHASES) + CREDIT_PHASES) % CREDIT_PHASES) {
+            case 1:  return new int[]{0xFFFFF86B, 0xFFFFD000, 0xCCFFD400};
+            case 2:  return new int[]{0xFFFFFFFF, 0xFFD9E4FF, 0xB0BFD4FF};
+            default: return new int[]{0xFFE6ECFF, 0xFF8E9BC4, 0xB07F90D8};
+        }
+    }
+
+    /**
+     * The editor credit "ROOHU X KHAN": one clean wide-tracked line in a heavy geometric font, smooth metallic
+     * gradient, thin dark edge and a soft coloured glow (the look of the reference edit's credit). phase picks the colour.
+     */
+    static Bitmap nameCredit(int canvasW, float sizePct, int phase) {
+        Typeface tf = Fonts.get("Poppins");
+        int[] pal = creditPalette(phase);
+        String text = "ROOHU X KHAN";
+        float fs = canvasW * 0.046f * sizePct / 100f, maxW = canvasW * 0.80f;
+        Paint m = new Paint(Paint.ANTI_ALIAS_FLAG);
+        m.setTypeface(tf);
+        float track = 0.16f;
+        for (int i = 0; i < 30; i++) {
+            m.setTextSize(fs); m.setLetterSpacing(track);
+            if (m.measureText(text) <= maxW) break;
+            fs *= 0.94f;
+        }
+        m.setTextSize(fs); m.setLetterSpacing(track);
+        float tw = m.measureText(text);
+        int pad = Math.round(fs * 0.9f);
+        int bw = (int) Math.ceil(tw + pad * 2), bh = (int) Math.ceil(fs * 1.25f + pad * 2);
+        Bitmap bmp = Bitmap.createBitmap(bw, bh, Bitmap.Config.ARGB_8888);
+        Canvas c = new Canvas(bmp);
+        float x = pad, y = pad + fs * 0.95f;
+        Paint g = new Paint(Paint.ANTI_ALIAS_FLAG);
+        g.setTypeface(tf); g.setTextSize(fs); g.setLetterSpacing(track);
+        g.setColor(pal[2]); g.setShadowLayer(fs * 0.55f, 0, 0, pal[2]);
+        c.drawText(text, x, y, g);
+        Paint o = new Paint(Paint.ANTI_ALIAS_FLAG);
+        o.setTypeface(tf); o.setTextSize(fs); o.setLetterSpacing(track);
+        o.setStyle(Paint.Style.STROKE); o.setStrokeJoin(Paint.Join.ROUND);
+        o.setStrokeWidth(fs * 0.09f); o.setColor(0xCC000000);
+        c.drawText(text, x, y, o);
+        Paint f = new Paint(Paint.ANTI_ALIAS_FLAG);
+        f.setTypeface(tf); f.setTextSize(fs); f.setLetterSpacing(track);
+        f.setShader(new LinearGradient(0, y - fs * 0.75f, 0, y + fs * 0.05f, pal[0], pal[1], Shader.TileMode.CLAMP));
+        c.drawText(text, x, y, f);
+        return bmp;
+    }
+
+    static Bitmap progress(int w, int frameH, float p) {
+        int h = Math.max(6, (int) (frameH * 0.006f));
+        Bitmap b = Bitmap.createBitmap(w, h, Bitmap.Config.ARGB_8888);
+        Canvas c = new Canvas(b);
+        Paint bg = new Paint(); bg.setColor(0x40FFFFFF);
+        c.drawRect(0, 0, w, h, bg);
+        Paint fg = new Paint(); fg.setColor(ORANGE);
+        c.drawRect(0, 0, w * Math.max(0f, Math.min(1f, p)), h, fg);
+        return b;
+    }
+
+    static Bitmap vignette(int w, int h) {
+        Bitmap b = Bitmap.createBitmap(w, h, Bitmap.Config.ARGB_8888);
+        Canvas c = new Canvas(b);
+        Paint p = new Paint(Paint.ANTI_ALIAS_FLAG);
+        p.setShader(new RadialGradient(w / 2f, h / 2f, h * 0.75f,
+                new int[]{0x00000000, 0x00000000, 0x59000000}, new float[]{0f, 0.5f, 1f}, Shader.TileMode.CLAMP));
+        c.drawRect(0, 0, w, h, p);
+        return b;
+    }
+
+    // ------------------------------------------------------------------ reaction look (Phase 1)
+
+    /** Opaque black bars top and bottom with a crisp glowing divider on each inner edge. Full-frame bitmap. */
+    static Bitmap reactFrame(int W, int H, float topFrac, float botFrac) {
+        Bitmap bmp = Bitmap.createBitmap(W, H, Bitmap.Config.ARGB_8888);
+        Canvas c = new Canvas(bmp);
+        int top = Math.round(H * topFrac), bot = Math.round(H * botFrac);
+        Paint p = new Paint(Paint.ANTI_ALIAS_FLAG);
+        p.setColor(Color.BLACK);
+        c.drawRect(0, 0, W, top, p);
+        c.drawRect(0, H - bot, W, H, p);
+        glowLine(c, W, top, W * 0.012f, 0xB0FFFFFF);
+        glowLine(c, W, H - bot, W * 0.012f, 0xB0FFFFFF);
+        float core = Math.max(3f, W * 0.006f);
+        Paint line = new Paint(Paint.ANTI_ALIAS_FLAG);
+        line.setColor(Color.WHITE);
+        c.drawRect(0, top - core / 2f, W, top + core / 2f, line);
+        c.drawRect(0, H - bot - core / 2f, W, H - bot + core / 2f, line);
+        return bmp;
+    }
+
+    /** Wide soft bloom around both dividers (transparent elsewhere). Its opacity is pulsed on loud moments. */
+    static Bitmap reactGlow(int W, int H, float topFrac, float botFrac) {
+        Bitmap bmp = Bitmap.createBitmap(W, H, Bitmap.Config.ARGB_8888);
+        Canvas c = new Canvas(bmp);
+        glowLine(c, W, Math.round(H * topFrac), W * 0.06f, 0x90BFE9FF);
+        glowLine(c, W, H - Math.round(H * botFrac), W * 0.06f, 0x90BFE9FF);
+        return bmp;
+    }
+
+    private static void glowLine(Canvas c, int W, float y, float half, int peak) {
+        Paint p = new Paint(Paint.ANTI_ALIAS_FLAG);
+        p.setShader(new LinearGradient(0, y - half, 0, y + half,
+                new int[]{peak & 0x00FFFFFF, peak, peak & 0x00FFFFFF}, new float[]{0f, 0.5f, 1f}, Shader.TileMode.CLAMP));
+        c.drawRect(0, y - half, W, y + half, p);
+    }
+
+    /** Splits a hook into at most two balanced lines. */
+    private static String[] splitTwo(String s) {
+        String[] w = s.split("\\s+");
+        if (w.length < 3 || s.length() <= 16) return new String[]{s};
+        int best = 1, bestDiff = Integer.MAX_VALUE;
+        for (int i = 1; i < w.length; i++) {
+            int a = 0, b = 0;
+            for (int k = 0; k < i; k++) a += w[k].length() + 1;
+            for (int k = i; k < w.length; k++) b += w[k].length() + 1;
+            if (Math.abs(a - b) < bestDiff) { bestDiff = Math.abs(a - b); best = i; }
+        }
+        StringBuilder l1 = new StringBuilder(), l2 = new StringBuilder();
+        for (int i = 0; i < w.length; i++) {
+            StringBuilder t = i < best ? l1 : l2;
+            if (t.length() > 0) t.append(' ');
+            t.append(w[i]);
+        }
+        return new String[]{l1.toString(), l2.toString()};
+    }
+
+    /** Bold 3D hook title (red first line, yellow second) shown in the top bar. maxH keeps it inside the bar. */
+    static Bitmap hookTitle(int W, float maxH, String text) {
+        String up = text.trim().toUpperCase(java.util.Locale.ROOT);
+        if (up.length() > 44) up = up.substring(0, 43).trim() + "\u2026";
+        String[] lines = splitTwo(up);
+        Typeface tf = face("Poppins");
+        float fs = W * 0.072f, maxW = W * 0.92f;
+        Paint m = new Paint(Paint.ANTI_ALIAS_FLAG);
+        m.setTypeface(tf); m.setLetterSpacing(NEON_TRACK);
+        for (int i = 0; i < 30; i++) {
+            m.setTextSize(fs);
+            float wmax = 0;
+            for (String l : lines) wmax = Math.max(wmax, m.measureText(l));
+            if (wmax <= maxW && lines.length * fs * 1.28f + fs * 0.3f <= maxH) break;
+            fs *= 0.93f;
+        }
+        int depth = Math.max(3, Math.round(fs * 0.10f));
+        int h = (int) Math.ceil(lines.length * fs * 1.28f + fs * 0.3f + depth);
+        Bitmap bmp = Bitmap.createBitmap(W, Math.max(h, 8), Bitmap.Config.ARGB_8888);
+        Canvas c = new Canvas(bmp);
+        m.setTextSize(fs);
+        for (int i = 0; i < lines.length; i++) {
+            float x = (W - m.measureText(lines[i])) / 2f, y = fs * 1.05f + i * fs * 1.28f;
+            if (i == 0 && lines.length > 1) glowText(c, lines[i], x, y, tf, fs, 0xFFFFF35C, 0xFFFFE600, 0xFF5A4A00);
+            else glowText(c, lines[i], x, y, tf, fs, 0xFF5CFF6E, 0xFF14FF2E, 0xFF04450C);
+        }
+        return bmp;
+    }
+
+
+    /** Splits a title into {yellow line, green typed line}. A one-line title is all green. */
+    static String[] neonLines(String text) {
+        String up = text == null ? "" : text.trim().toUpperCase(java.util.Locale.ROOT);
+        if (up.length() > 40) up = up.substring(0, 39).trim() + "\u2026";
+        if (up.isEmpty()) return new String[]{"", ""};
+        String[] p = splitTwo(up);
+        return p.length == 1 ? new String[]{"", p[0]} : new String[]{p[0], p[1]};
+    }
+
+    /** Neon story title: yellow glowing first line, green glowing second line. n1 / n2 = letters shown so far (typewriter). */
+    private static final float NEON_TRACK = 0.04f;
+
+    static Bitmap neonTitle(int W, String l1, String l2, int n1, int n2) {
+        Typeface tf = face("Poppins");
+        float fs = W * 0.075f, maxW = W * 0.90f;
+        Paint m = new Paint(Paint.ANTI_ALIAS_FLAG);
+        m.setTypeface(tf); m.setLetterSpacing(NEON_TRACK);
+        for (int i = 0; i < 30; i++) {
+            m.setTextSize(fs);
+            if (Math.max(m.measureText(l1), m.measureText(l2)) <= maxW) break;
+            fs *= 0.93f;
+        }
+        int pad = Math.round(fs * 0.7f);
+        int h = (int) Math.ceil(fs * 2.6f) + pad * 2;
+        Bitmap bmp = Bitmap.createBitmap(W, h, Bitmap.Config.ARGB_8888);
+        Canvas c = new Canvas(bmp);
+        m.setTextSize(fs);
+        float y1 = pad + fs, y2 = y1 + fs * 1.22f;
+        String s1 = l1.substring(0, Math.max(0, Math.min(n1, l1.length())));
+        String s2 = l2.substring(0, Math.max(0, Math.min(n2, l2.length())));
+        if (!s1.isEmpty()) glowText(c, s1, (W - m.measureText(l1)) / 2f, y1, tf, fs, 0xFFFFF35C, 0xFFFFE600, 0xFF5A4A00);
+        if (!s2.isEmpty()) glowText(c, s2, (W - m.measureText(l2)) / 2f, l1.isEmpty() ? y1 : y2, tf, fs, 0xFF5CFF6E, 0xFF14FF2E, 0xFF04450C);
+        return bmp;
+    }
+
+    private static void glowText(Canvas c, String s, float x, float y, Typeface tf, float fs, int face, int glow, int edge) {
+        Paint g = new Paint(Paint.ANTI_ALIAS_FLAG);
+        g.setTypeface(tf); g.setTextSize(fs); g.setLetterSpacing(NEON_TRACK); g.setColor(glow);
+        g.setShadowLayer(fs * 0.62f, 0, 0, glow);
+        c.drawText(s, x, y, g);
+        c.drawText(s, x, y, g);
+        c.drawText(s, x, y, g);
+        Paint o = new Paint(Paint.ANTI_ALIAS_FLAG);
+        o.setTypeface(tf); o.setTextSize(fs); o.setLetterSpacing(NEON_TRACK); o.setStyle(Paint.Style.STROKE);
+        o.setStrokeJoin(Paint.Join.ROUND); o.setStrokeWidth(fs * 0.07f); o.setColor(edge);
+        c.drawText(s, x, y, o);
+        Paint f = new Paint(Paint.ANTI_ALIAS_FLAG);
+        f.setTypeface(tf); f.setTextSize(fs); f.setLetterSpacing(NEON_TRACK); f.setColor(face);
+        c.drawText(s, x, y, f);
+    }
+
+    /** 3D-look text: stacked extrusion, black outline, gradient face and a top specular highlight. */
+    static void text3d(Canvas c, String s, float x, float y, Typeface tf, float fs, int top, int bottom, int side, int depth) {
+        text3d(c, s, x, y, tf, fs, top, bottom, side, depth, 0, false, 0.17f);
+    }
+
+    /** Full 3D text. glow = ARGB glow colour (0 none); fakeBold thickens fallback script fonts; outline = stroke width in em. */
+    static void text3d(Canvas c, String s, float x, float y, Typeface tf, float fs, int top, int bottom, int side,
+                       int depth, int glow, boolean fakeBold, float outline) {
+        if (glow != 0) {
+            Paint gp = new Paint(Paint.ANTI_ALIAS_FLAG);
+            gp.setTypeface(tf); gp.setTextSize(fs); gp.setFakeBoldText(fakeBold);
+            gp.setColor(glow);
+            gp.setShadowLayer(fs * 0.38f, 0, 0, glow);
+            c.drawText(s, x, y, gp);
+        }
+        Paint p = new Paint(Paint.ANTI_ALIAS_FLAG);
+        p.setTypeface(tf); p.setTextSize(fs); p.setFakeBoldText(fakeBold);
+        p.setStyle(Paint.Style.FILL_AND_STROKE); p.setStrokeJoin(Paint.Join.ROUND);
+        p.setStrokeWidth(fs * 0.06f); p.setColor(side);
+        for (int i = depth; i >= 1; i--) c.drawText(s, x + i * 0.55f, y + i * 0.95f, p);
+        if (outline > 0f) {
+            Paint o = new Paint(Paint.ANTI_ALIAS_FLAG);
+            o.setTypeface(tf); o.setTextSize(fs); o.setFakeBoldText(fakeBold);
+            o.setStyle(Paint.Style.STROKE); o.setStrokeJoin(Paint.Join.ROUND);
+            o.setStrokeWidth(fs * outline); o.setColor(Color.BLACK);
+            c.drawText(s, x, y, o);
+        }
+        Paint f = new Paint(Paint.ANTI_ALIAS_FLAG);
+        f.setTypeface(tf); f.setTextSize(fs); f.setFakeBoldText(fakeBold);
+        f.setShader(new LinearGradient(0, y - fs * 0.85f, 0, y + fs * 0.1f, top, bottom, Shader.TileMode.CLAMP));
+        c.drawText(s, x, y, f);
+        Paint g = new Paint(Paint.ANTI_ALIAS_FLAG);
+        g.setTypeface(tf); g.setTextSize(fs); g.setFakeBoldText(fakeBold);
+        g.setShader(new LinearGradient(0, y - fs * 0.85f, 0, y - fs * 0.38f, 0x80FFFFFF, 0x00FFFFFF, Shader.TileMode.CLAMP));
+        c.drawText(s, x, y, g);
+    }
+}
+

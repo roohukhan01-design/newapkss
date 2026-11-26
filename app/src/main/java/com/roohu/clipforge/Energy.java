@@ -193,3 +193,4 @@ final class Energy {
         return rms;
     }
 }
+

@@ -77,3 +77,4 @@ final class MusicSearch {
         return body;
     }
 }
+

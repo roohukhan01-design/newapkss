@@ -244,3 +244,4 @@ final class YouTubeClient {
     private static String b64(byte[] b) { return Base64.encodeToString(b, Base64.URL_SAFE | Base64.NO_WRAP | Base64.NO_PADDING); }
     private static String rand(int bytes) { byte[] b = new byte[bytes]; new SecureRandom().nextBytes(b); return b64(b); }
 }
+
