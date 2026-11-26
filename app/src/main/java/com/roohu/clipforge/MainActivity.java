@@ -47,6 +47,7 @@ import androidx.webkit.WebViewAssetLoader;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;
+import java.io.IOException;
 import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -86,8 +87,15 @@ public class MainActivity extends ComponentActivity {
                 if (chooserCb == null) return;
                 Uri[] res = WebChromeClient.FileChooserParams.parseResult(r.getResultCode(), r.getData());
                 if (res != null && res.length > 0) {
-                    if (chooserAccept.contains("video")) { if ("cam".equals(pickTarget)) camUri = res[0]; else videoUri = res[0]; }
-                    else if (chooserAccept.contains("audio")) {
+                    if (chooserAccept.contains("video")) {
+                        Intent resultData = r.getData();
+                        if (resultData != null && (resultData.getFlags() & Intent.FLAG_GRANT_READ_URI_PERMISSION) != 0) {
+                            try { getContentResolver().takePersistableUriPermission(res[0],
+                                    resultData.getFlags() & (Intent.FLAG_GRANT_READ_URI_PERMISSION | Intent.FLAG_GRANT_WRITE_URI_PERMISSION)); }
+                            catch (SecurityException ignored) { }
+                        }
+                        if ("cam".equals(pickTarget)) camUri = res[0]; else videoUri = res[0];
+                    } else if (chooserAccept.contains("audio")) {
                         for (Uri u : res) copyToLib(u);
                     }
                 }
@@ -209,6 +217,58 @@ public class MainActivity extends ComponentActivity {
 
     /** Receives exported clips from the page in chunks and writes them to Downloads/RoohuClipForge. */
     /** Songs the user added live in the app's own storage so they stay after the app closes. */
+    /**
+     * Resolve picker-backed content URIs into app-private files before Media3 Transformer opens them.
+     * This avoids temporary SAF grants and document-provider asset-loader failures.
+     */
+    private Uri localizeMediaUri(Uri uri, String label) throws IOException {
+        if (uri == null) return null;
+        String scheme = uri.getScheme();
+        if ("file".equalsIgnoreCase(scheme)) return uri;
+        if (!"content".equalsIgnoreCase(scheme))
+            throw new IOException("Unsupported media URI type: " + (scheme == null ? "unknown" : scheme));
+
+        String ext = ".media";
+        Cursor c = null;
+        try {
+            c = getContentResolver().query(uri, new String[]{OpenableColumns.DISPLAY_NAME}, null, null, null);
+            if (c != null && c.moveToFirst()) {
+                String name = c.getString(0);
+                if (name != null) {
+                    int dot = name.lastIndexOf('.');
+                    if (dot >= 0 && dot < name.length() - 1) {
+                        String candidate = name.substring(dot).toLowerCase(java.util.Locale.US);
+                        if (candidate.matches("\\.[a-z0-9]{1,8}")) ext = candidate;
+                    }
+                }
+            }
+        } catch (Exception ignored) {
+        } finally {
+            if (c != null) c.close();
+        }
+
+        File dir = new File(getCacheDir(), "clipforge_media");
+        if (!dir.exists() && !dir.mkdirs()) throw new IOException("Cannot create media cache");
+        File target = new File(dir, label + "_" + Integer.toHexString(uri.toString().hashCode()) + ext);
+        if (target.isFile() && target.length() > 0) return Uri.fromFile(target);
+        File part = new File(target.getAbsolutePath() + ".part");
+        try (InputStream in = getContentResolver().openInputStream(uri);
+             OutputStream out = new FileOutputStream(part)) {
+            if (in == null) throw new IOException("The selected media provider returned no data");
+            byte[] buffer = new byte[1024 * 1024];
+            int count;
+            while ((count = in.read(buffer)) != -1) out.write(buffer, 0, count);
+            out.flush();
+        } catch (Exception e) {
+            part.delete();
+            throw new IOException("Cannot read selected media. Please choose the video again and keep it available during export. " +
+                    (e.getMessage() == null ? e.toString() : e.getMessage()), e);
+        }
+        if (target.exists() && !target.delete()) { part.delete(); throw new IOException("Cannot replace cached media"); }
+        if (!part.renameTo(target)) { part.delete(); throw new IOException("Cannot finish caching selected media"); }
+        return Uri.fromFile(target);
+    }
+
     private File musicDir() { File d = new File(getFilesDir(), "music"); d.mkdirs(); return d; }
 
     private void copyToLib(Uri u) {
@@ -430,22 +490,30 @@ public class MainActivity extends ComponentActivity {
                     }
                 } catch (Throwable e) { music = null; }
                 final Uri musicF = music;
-                runOnUiThread(() -> {
-                    exporter = new ClipExporter();
-                    exporter.start(MainActivity.this, src, spec, musicF, camUri, new ClipExporter.Listener() {
-                        @Override public void progress(int pct) { js("cfNative.onProgress(" + id + "," + pct + ")"); }
-                        @Override public void done(final File file) {
-                            worker.execute(() -> {
-                                try {
-                                    Uri u = ClipExporter.publish(MainActivity.this, file, safeName(spec.optString("fname", spec.optString("title", "clip"))) + "-" + System.currentTimeMillis() % 100000);
-                                    reply(id, new JSONObject().put("ok", true).put("uri", u.toString()));
-                                } catch (Throwable e) { fail(id, e.getMessage() == null ? e.toString() : e.getMessage()); }
-                                finally { keepAwake(false); }
-                            });
-                        }
-                        @Override public void error(String message) { fail(id, message); keepAwake(false); }
+                final Uri cameraSrc = camUri;
+                try {
+                    final Uri exportSrc = localizeMediaUri(src, "video");
+                    final Uri exportCam = cameraSrc == null ? null : localizeMediaUri(cameraSrc, "camera");
+                    runOnUiThread(() -> {
+                        exporter = new ClipExporter();
+                        exporter.start(MainActivity.this, exportSrc, spec, musicF, exportCam, new ClipExporter.Listener() {
+                            @Override public void progress(int pct) { js("cfNative.onProgress(" + id + "," + pct + ")"); }
+                            @Override public void done(final File file) {
+                                worker.execute(() -> {
+                                    try {
+                                        Uri u = ClipExporter.publish(MainActivity.this, file, safeName(spec.optString("fname", spec.optString("title", "clip"))) + "-" + System.currentTimeMillis() % 100000);
+                                        reply(id, new JSONObject().put("ok", true).put("uri", u.toString()));
+                                    } catch (Throwable e) { fail(id, e.getMessage() == null ? e.toString() : e.getMessage()); }
+                                    finally { keepAwake(false); }
+                                });
+                            }
+                            @Override public void error(String message) { fail(id, message); keepAwake(false); }
+                        });
                     });
-                });
+                } catch (Throwable e) {
+                    fail(id, e.getMessage() == null ? e.toString() : e.getMessage());
+                    keepAwake(false);
+                }
             });
         }
 
