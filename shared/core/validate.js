@@ -5,7 +5,8 @@
 const SCHEMA_VERSION = 2;
 const CATEGORIES = ['gaming', 'podcast', 'interview', 'movie', 'sports', 'vlog', 'tutorial', 'reaction', 'documentary', 'general'];
 const MOODS = ['intense', 'upbeat', 'calm'];
-const CAPTION_STYLES = ['clean', 'pop', 'kara', 'bar', 'line', 'fire', 'ice', 'gold', 'neon', 'hype', 'reveal'];
+const CAPTION_STYLES = ['clean', 'pop', 'kara', 'bar', 'glass', 'line', 'fire', 'ice', 'gold', 'editorial', 'pro', 'neon', 'hype', 'reveal', 'mark', 'sport'];
+const CAPTION_FONTS = ['Poppins', 'Poppins Black', 'Anton', 'Archivo Black', 'Bebas Neue', 'Bangers', 'Bungee', 'Luckiest Guy', 'Russo One', 'Black Ops One', 'Michroma', 'Tajawal'];
 const MAX_JSON_CHARS = 1000000;
 const MAX_ITEMS = 200;
 
@@ -176,7 +177,8 @@ function validateDirector(items, count) {
       i, title, hook: Number.isFinite(hook) ? Math.max(1, Math.min(10, Math.round(hook))) : 0,
       why: cleanText(it.why, 140), mood: MOODS.includes(it.mood) ? it.mood : '',
       category: CATEGORIES.includes(it.category) ? it.category : 'general',
-      captionStyle: CAPTION_STYLES.includes(it.captionStyle) ? it.captionStyle : ''
+      captionStyle: CAPTION_STYLES.includes(it.captionStyle) ? it.captionStyle : '',
+      font: CAPTION_FONTS.includes(it.font) ? it.font : ''
     });
     seen.add(i);
   }
@@ -217,3 +219,4 @@ function validateExportConfig(cfg) {
 
 if (typeof module !== 'undefined') module.exports = { parseAiJson, validateCandidates, validateDirector, validateExportConfig, sanitizeFilename, snapToPause, cleanText, num, SCHEMA_VERSION, CATEGORIES };
 if (typeof window !== 'undefined') window.RoohuValidate = { parseAiJson, validateCandidates, validateDirector, validateExportConfig, sanitizeFilename, cleanText, num };
+
